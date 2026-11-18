@@ -1,0 +1,87 @@
+<div class="form-container" id="interesseskjema">
+    <h3>Forslag pris leasing varebil</h3>
+    <!--h3 style="margin-top: 0;">Interessert i {{ .Params.brand }} {{ .Title }}?</h3-->
+    <p>Fyll ut skjemaet under, så kontakter vi deg med et uforpliktende tilbud på denne bilen.</p>
+    
+    <form action="https://usebasin.com/f/6fdd01cefd45" method="POST" id="form" >
+        <!-- 1. Hidden field for price with visible label -->
+        <input type="hidden" name="merke" value="{{ .Params.brand }}">
+        <input type="hidden" name="modell" value="{{ .Title }}">
+        <input type="hidden" name="url" value="{{ .Permalink }}">
+        {{ with .Params.quote }}
+            <input type="hidden" name="quote" value="{{ . }}">
+        {{ end }}
+
+         <div pricing class="pricing" onclick="toggleFaq(this)">
+            <label class="display-valprop" onclick="toggleFaq(this)">
+                <input type="hidden" id="leasingalternativ" name="Leasingalternativ" value="{{ with .Params.pricezero }} {{ . }},- mnd. {{ end }}">
+                <p>{{ with .Params.pricezero }} Fra kr {{ . }},- per mnd. {{ end }} </p>
+            </label>
+            <div class="valprop">
+                <span>Forslaget er et estimat og inkluderer:</span>
+                <ul>
+                    <li>frakt og klargjøring</li>
+                    <li>vrakpantavgift</li>
+                    <li>0 innskudd</li>
+                    <li>15000 km/år</li>
+                    <li>Fast rente</li>
+                    <li>sommer- og vinterhjul</li>
+                </ul>
+                <p>Endelig pris tilpasses etter dialog rundt dine behov. Vi tilbyr avtaler fra 2 til 5 år
+                Ref:</p>
+            </div>
+        </div>
+
+        <div choices>
+            <h4>Ønskede tilvalg:</h4>
+            <!-- 2. Checkbox group for services -->
+            <div>
+                <input type="hidden" name="Tilvalg:">
+                <!--label for="service_bildekor"><input type="checkbox" id="service_bildekor" name="Services[]" value="Bildekor">Bildekor</label-->
+                <label for="service_forsikring"><input type="checkbox" id="service_forsikring" name="Forsikring" data-name="Forsikring:" value="Ja">Forsikring</label>
+                <label for="service_serviceavtale"><input type="checkbox" id="service_serviceavtale" name="Serviceavtale" data-name="Serviceavtale:" value="Ja">Serviceavtale</label>
+                <label for="service_dekkhotell"><input type="checkbox" id="service_dekkhotell" name="Dekkhotell" data-name="Dekkhotell:" value="Ja">Dekkhotell</label>
+                <label for="service_bombrikke"><input type="checkbox" id="service_bombrikke" name="Bombrikke" data-name="Bombrikke:" value="Ja">Bombrikke</label>
+                <label for="service_bildekor"><input type="checkbox" id="service_bildekor" name="Bildekor" data-name="Bildekor:" value="Ja">Bildekor</label>
+                <label for="service_kjorebok"><input type="checkbox" id="service_kjorebok" name="Kjorebok" data-name="Kjørebok:" value="Ja">Kjørebok digital</label>
+            </div>    
+        </div>
+
+        <div class="notat hva-skjer-notat">
+            <p>Hva skjer etter henvendelsen?
+            <span>Vi kontakter deg via telefon eller epost for å finne den bilen som passer akkurat ditt behov.</span></p>
+        </div>
+
+        <div names>
+            <input type="text" name="Firstname" data-name="Fornavn:" placeholder="Fornavn *" required>
+            <input type="text" name="Lastname" data-name="Etternavn:" placeholder="Etternavn *" required>
+        </div>
+        
+        <div contact>
+            <input type="tel" name="Phone" data-name="Telefonnummer:" placeholder="Telefonnummer *" required>
+            <input type="email" name="Email" data-name="E-post adresse:" placeholder="E-post *" required>
+        </div>
+
+        <input type="text" name="Orgnummer" data-name="Orgnummer:" placeholder="Personnummer / Org. nummer *" required>
+        
+        <textarea name="message" data-name="Melding:" placeholder="Eventuelle spørsmål eller spesielle ønsker..."></textarea>
+
+        <div acceptance>
+            <label>
+                <input type="checkbox" name="Nyhetsbrev" data-name="Markedsføring:" required>
+                <span>Jeg godtar å bli kontaktet vedrørende dette tilbudet og samtykker til utsendelse av nyhetsbrev. *</span>
+            </label>
+            <a class="btn-marketing"></a>
+            <div class="marketing-info">
+                <a class="btn-marketing close"></a>
+                <p class="accept-text">
+                    Ved å markere her så gir du aktivt samtykke til å sende deg tilbud, informasjon og oppdateringer fra Automedia AS. Dette kan når som helst trekkes tilbake.
+                </p>
+            </div>
+        </div>
+        <!--input type="hidden" name="_next" value="{{ "/takk/" | absURL }}"-->
+        <button type="submit">Send forespørsel</button>
+    </form>
+    <p>** Ved å legge inn personnummer så aksepterer du at det gjøres kredittvurdering. Dette er ikke et krav, men vil gjøre prosessen raskere.</p>
+    <p class="italic">Automedia AS reserverer seg for feil eller mangler, samt alle justeringer på pris og utstyr.</p>
+</div>

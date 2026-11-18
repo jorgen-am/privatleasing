@@ -1,0 +1,50 @@
+{{ define "main" }}
+<section class="omtaler-list container">
+    <header>
+        <h1>{{ .Title }}</h1>
+        <div class="tittelstjerner">★★★★★</div>
+    </header>
+
+    <div class="column-container">
+        {{/* Siden reviews.json nå er ferdig sortert fra scriptet, bruker vi bare range */}}
+        {{ range .Site.Data.reviews }}
+        <div class="review-card">
+            
+            <div class="rating">
+                {{ if ge .rating 5 }}★★★★★{{ else if eq .rating 4 }}★★★★☆{{ else }}★★★☆☆{{ end }}
+            </div>
+
+            <p class="omtale">
+                "{{ .content }}"
+            </p>
+
+            {{ if .answer }}
+            <div class="respons">
+                <strong class="respons-header">Svar fra Automedia</strong>
+                <p class="svar">{{ .answer }}</p>
+            </div>
+            {{ end }}
+
+            <div class="kundekort">
+                <div class="initial">
+                    {{ if .author }}{{ substr .author 0 1 }}{{ else }}A{{ end }}
+                </div>
+                <div>
+                    <strong class="navn">{{ .author }}</strong>
+                    <span class="dato">
+                        {{/* Vi klipper strengen manuelt for å unngå Hugo-feil */}}
+                        {{ $d := .date }}
+                        {{ if gt (len $d) 15 }}
+                            {{/* Endrer 'Wed Oct 22 2025...' til 'Oct 22 2025' */}}
+                            {{ substr $d 4 11 }}
+                        {{ else }}
+                            {{ $d }}
+                        {{ end }}
+                    </span>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="tjenester-list container">
+    <article class="services">
+        <h1>{{ .Title }}</h1>
+        <p>Varebilleasing.no tilbyr følgende tjenester fra Automedia AS:</p>
+        
+        <div class="grid-container">
+            {{ range .Pages }}
+            <div class="tjeneste-card">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                {{ else }}
+                <div class="noimage">Bilde mangler</div>
+                {{ end }}
+                
+                <div class="tjeneste-tekst">
+                    <h3>{{ .Title }}</h3>
+                    <p>{{ .Params.metadescription | truncate 120 }}</p>
+                    <a href="{{ .RelPermalink }}">Les mer &rarr;</a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </article>
+</section>
+{{ end }}

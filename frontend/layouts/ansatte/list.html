@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="ansatte-list container">
+    <article>
+        <h1>Hvem er vi?</h1>
+        <p>Dette er menneskene bak varebilleasing og Automedia AS</p>
+        
+        <div  class="column-container">
+            {{ range .Pages }}
+            <div class="employee-card">
+                <a href="{{ .RelPermalink }}">
+                    {{ if .Params.image }}
+                        <img src="{{ .Params.image }}">
+                    {{ else }}
+                        <div></div>
+                    {{ end }}
+                    
+                    <h3>{{ .Title }}</h3>
+                    <p>{{ .Params.position }}</p>
+                    {{ with .Params.phone }}<p><a href="tel:{{ replace . " " "" }}">{{ . }}</a></p>{{ end }}
+                    {{ with .Params.email }}<p><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </article>
+</section>
+{{ end }}

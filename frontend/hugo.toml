@@ -1,0 +1,71 @@
+canonifyURLs = true
+baseURL = "https://jorgen-am.github.io/privatleasing/"
+locale = 'nb-no'
+title = 'privatleasing'
+publishDir = "public"
+port = 1317
+
+# Utdataformater for forsiden (Genererer index.json på roten)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[permalinks]
+  post = "/post/:title/"
+  biler = "/biler/:slug/"
+  
+[taxonomies]
+  drivlinje = "drivlinje"
+  gir = "gir"
+  trekk = "trekk"
+  biltype = "biltype"
+
+[menu]
+  # --- TOPPMENY (main) ---
+  [[menu.main]]
+    identifier = "Biler"
+    name = "Våre biler"
+    url = "/biler/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Kundeomtaler"
+    url = "/omtaler/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Artikler"
+    url = "/post/"
+    weight = 31
+
+  [[menu.main]]
+    identifier = "om-oss"
+    name = "Om oss"
+    url = "/om-oss/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Om virksomheten"
+    parent = "om-oss"
+    url = "/om-oss/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Ansatte"
+    parent = "om-oss"
+    url = "/om-oss/ansatte/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Kontakt oss"
+    parent = "om-oss"
+    url = "/om-oss/kontakt/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tjenester"
+    identifier = "tjenester"
+    url = "/tjenester/"
+    weight = 3
+
+  [markup.goldmark.renderer]
+    unsafe = true

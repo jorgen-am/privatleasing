@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section class="articles-list container">
+    <h1>Artikler om varebil leasing</h1> 
+    <p>Her har vi samlet en rekke artikler om leasing og emner som faller under leasing av varebil</p>
+    
+    <div  class="grid-container">
+        {{/* .RecursiveSections.RegularPages henter alle artikler fra alle undermapper (kategorier) */}}
+        {{ $artikler := .RegularPagesRecursive }}
+        
+        {{/* Hvis det ikke fungerer i din versjon, bruk denne som backup: */}}
+        {{ if not $artikler }}
+            {{ $artikler = .Site.RegularPages }}
+        {{ end }}
+
+        {{ range $artikler }}
+            {{/* Vi viser kun de som faktisk tilhører "post" seksjonen */}}
+            {{ if eq .Section "post" }}
+            <article>
+                {{ if .Params.bildeUrl }}
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.bildeUrl }}" alt="{{ .Title }}" style="width: 100%; height: 180px; object-fit: cover;">
+                    </a>
+                {{ end }}
+                <div>
+                    <span>{{ .Params.kategori }}</span>
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                </div>
+                <div style="padding: 0 20px 20px;">
+                    <a href="{{ .Permalink }}">Les artikkel &rarr;</a>
+                </div>
+            </article>
+            {{ end }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}
