@@ -1,15 +1,15 @@
 ---
-title: "D-Max firmabil"
+title: "Black Edition Double Cab 164 HK automat 4x4"
 brand: "Isuzu"
 slug: "isuzu-d-max-black-edition-double-cab-firmabil-leasing-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6989ca5e28e70480ce6604d0_Isuzu%20D-Max%20Black%20Edition%20Double%20Cab.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3b74645bb5196f7dd1eed15571c90da33215145c-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/f70a4f20cfb2bef425886f687c55fe3907aeecc0-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Black Edition Double Cab 164 HK automat 4x4"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3b74645bb5196f7dd1eed15571c90da33215145c-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/f70a4f20cfb2bef425886f687c55fe3907aeecc0-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Isuzu D-Max firmabil"
 
 alttext: "Isuzu D-Max Black Edition Double Cab front"
 
@@ -19,7 +19,7 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
 body: "Pickup"
 
@@ -33,15 +33,15 @@ doors: "4"
 
 seats: "2"
 
-performancehk: "163"
+performancehk: "164"
 
 performancewatt: "119"
 
 torque: "360"
 
-cotwoemission: "235"
+range: "263"
 
-warranty: "5 år/10000 km"
+chargingspeed: "60"
 
 allowedtotalweight: "3100"
 
@@ -69,11 +69,9 @@ wheelbase: "3125"
 
 turningcircle: "12.2"
 
-yearmodel: "2025"
+color: "Metallic"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -89,17 +87,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Tilbud nr. 73179 . frakt 12375 rabatt 36029  pluss 03 prosent"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/6158/isuzu-d-max-space-cab-1-9d-vare-2025-mod"
-
-sourceslugad: "https://www.auto-data.net/no/isuzu-d-max-iii-generation-6102"
+consultant: "Espen/Berg-Auto"
 
 chosepage: "Leasing Firmabil"
 

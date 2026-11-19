@@ -28,16 +28,39 @@
 
                     <ul class="nav-menu">
                         <li class="nav-item dropdown" onclick="toggleFaq(this)">
-                            <a class="nav-screen" href="/biler/"><img class="nav-filter" alt="ikon biler" src="/images/icon-cars.png">Varebiler</a>
-                            <a class="nav-cell" ><img class="nav-filter" alt="ikon biler" src="/images/icon-cars.png">Varebiler</a>
+                            <a class="nav-screen" href="/biler/"><img class="nav-filter" alt="ikon biler" src="/images/icon-cars.png">Privatbiler</a>
+                            <a class="nav-cell"><img class="nav-filter" alt="ikon biler" src="/images/icon-cars.png">Privatbiler</a>
                             <ul class="dropdown-menu">
                                 <div class="submenu vans">
-                                    <li class="all-cars no-text"><a href="/biler/">Alle leasing varebiler</a></li>
-                                    {{ with .Site.GetPage "/biler" }}
-                                        {{ range .Sections.ByTitle }}
-                                            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                                        {{ end }}
+                                    <li class="all-cars no-text"><a href="/biler/">Alle leasing privatbiler</a></li>
+
+                                    <li class="dropdown-header"><strong>Bilmerker</strong></li>
+                                    {{ $brands := slice "Audi" "BMW" "BYD" "Citroën" "Fiat" "Ford" "Honda" "Hyundai" "Isuzu" "Kia" "Maxus" "Mazda" "Mercedes" "MG" "MINI" "Mitsubishi" "Nissan" "Opel" "Peugeot" "Polestar" "Renault" "Skoda" "Smart" "Suzuki" "Tesla" "Toyota" "Volkswagen" "Volvo" "Xpeng" }}
+                                    {{ range $brands }}
+                                        <li><a href="/biler/{{ . | urlize }}/">{{ . }}</a></li>
                                     {{ end }}
+
+                                    <li class="dropdown-header"><strong>Drivstoff</strong></li>
+                                    <li><a href="/biler/leasing-privatbil-bensin/">bensin</a></li>
+                                    <li><a href="/biler/leasing-privatbil-diesel/">diesel</a></li>
+                                    <li><a href="/biler/leasing-privatbil-elektrisk/">elektrisk</a></li>
+                                    <li><a href="/biler/leasing-privatbil-cng/">CNG</a></li>
+
+                                    <li class="dropdown-header"><strong>Dører</strong></li>
+                                    <li><a href="/biler/leasing-privatbil-2-dorer/">2 dører</a></li>
+                                    <li><a href="/biler/leasing-privatbil-4-dorer/">4 dører</a></li>
+                                    <li><a href="/biler/leasing-privatbil-5-dorer/">5 dører</a></li>
+
+                                    <li class="dropdown-header"><strong>Seter</strong></li>
+                                    <li><a href="/biler/leasing-privatbil-3-seter/">3 seter</a></li>
+                                    <li><a href="/biler/leasing-privatbil-5-seter/">5 seter</a></li>
+                                    <li><a href="/biler/leasing-privatbil-6-seter/">6 seter</a></li>
+                                    <li><a href="/biler/leasing-privatbil-7-seter/">7 seter</a></li>
+
+                                    <li class="dropdown-header"><strong>Hjuldrift</strong></li>
+                                    <li><a href="/biler/leasing-privatbil-awd/">AWD</a></li>
+                                    <li><a href="/biler/leasing-privatbil-rwd/">bakhjulstrekk</a></li>
+                                    <li><a href="/biler/leasing-privatbil-fwd/">forhjulstrekk</a></li>
                                 </div>
                             </ul>
                         </li>
@@ -323,18 +346,15 @@ ${context === 'compare' ? `
 
             // Checkbox-filter konfigurasjon
             const CHECKBOX_FILTERS = [
-                { field: 'brand',        label: 'Merke',            dynamic: true  },
+                { field: 'brand',        label: 'Bilmerker',        dynamic: true  },
                 { field: 'fuel',         label: 'Drivstoff',        dynamic: false,
-                  options: [['Diesel','Diesel'],['Elektrisitet','Elektrisk'],['Bensin','Bensin']] },
-                { field: 'body',         label: 'Karosseri',        dynamic: false,
-                  options: [['Varebil','Varebil'],['Pickup','Pickup'],['Flerbruksbil','Flerbruksbil'],['Skapbil','Skapbil']] },
-                { field: 'drive',        label: 'Hjuldrift',        dynamic: false,
-                  options: [['Foran','Foran'],['Bak','Bak'],['AWD','AWD'],['4WD','4WD'],['4Motion','4Motion']] },
+                  options: [['Bensin','bensin'],['Diesel','diesel'],['Elektrisitet','elektrisk'],['CNG','CNG']] },
                 { field: 'doors',        label: 'Dører',            dynamic: false,
                   options: [['2','2 dører'],['4','4 dører'],['5','5 dører']] },
                 { field: 'seats',        label: 'Seter',            dynamic: false,
-                  options: [['2','2 seter'],['3','3 seter'],['5','5 seter']] },
-                { field: 'lversion',     label: 'Lasteromversjon',  dynamic: true  },
+                  options: [['3','3 seter'],['5','5 seter'],['6','6 seter'],['7','7 seter']] },
+                { field: 'drive',        label: 'Hjuldrift',        dynamic: false,
+                  options: [['AWD','AWD'],['Bak','bakhjulstrekk'],['Foran','forhjulstrekk']] },
                 { field: 'fastdelivery', label: 'Leveringstid',     dynamic: false,
                   options: [['true','Rask levering']] },
             ];
@@ -559,27 +579,22 @@ ${context === 'compare' ? `
                 }
             }
 
-            // Kategori-slug mapping: URL-slug → { felt, verdi }
+            // Erstatt CATEGORY_SLUGS i baseof.html (linje 413) med denne:
             const CATEGORY_SLUGS = {
-                'leasing-varebil-diesel':      { field: 'fuel',  value: 'Diesel' },
-                'leasing-varebil-bensin':      { field: 'fuel',  value: 'Bensin' },
-                'leasing-varebil-elektrisk':   { field: 'fuel',  value: 'Elektrisitet' },
-                'leasing-varebil-cng':         { field: 'fuel',  value: 'CNG' },
-                'leasing-varebil-awd':         { field: 'drive', value: 'AWD' },
-                'leasing-varebil-4wd':         { field: 'drive', value: '4WD' },
-                'leasing-varebil-fwd':         { field: 'drive', value: 'Foran' },
-                'leasing-varebil-rwd':         { field: 'drive', value: 'Bak' },
-                'leasing-varebil-4motion':     { field: 'drive', value: '4Motion' },
-                'leasing-varebil-varebil':     { field: 'body',  value: 'Varebil' },
-                'leasing-varebil-pickup':      { field: 'body',  value: 'Pickup' },
-                'leasing-varebil-flerbruksbil':{ field: 'body',  value: 'Flerbruksbil' },
-                'leasing-varebil-skapbil':     { field: 'body',  value: 'Skapbil' },
-                'leasing-varebil-2-dorer':     { field: 'doors', value: '2' },
-                'leasing-varebil-4-dorer':     { field: 'doors', value: '4' },
-                'leasing-varebil-5-dorer':     { field: 'doors', value: '5' },
-                'leasing-varebil-2-seter':     { field: 'seats', value: '2' },
-                'leasing-varebil-3-seter':     { field: 'seats', value: '3' },
-                'leasing-varebil-5-seter':     { field: 'seats', value: '5' },
+                'leasing-privatbil-bensin':    { field: 'fuel',  value: 'Bensin' },
+                'leasing-privatbil-diesel':    { field: 'fuel',  value: 'Diesel' },
+                'leasing-privatbil-elektrisk': { field: 'fuel',  value: 'Elektrisitet' },
+                'leasing-privatbil-cng':       { field: 'fuel',  value: 'CNG' },
+                'leasing-privatbil-2-dorer':   { field: 'doors', value: '2' },
+                'leasing-privatbil-4-dorer':   { field: 'doors', value: '4' },
+                'leasing-privatbil-5-dorer':   { field: 'doors', value: '5' },
+                'leasing-privatbil-3-seter':   { field: 'seats', value: '3' },
+                'leasing-privatbil-5-seter':   { field: 'seats', value: '5' },
+                'leasing-privatbil-6-seter':   { field: 'seats', value: '6' },
+                'leasing-privatbil-7-seter':   { field: 'seats', value: '7' },
+                'leasing-privatbil-awd':       { field: 'drive', value: 'AWD' },
+                'leasing-privatbil-rwd':       { field: 'drive', value: 'Bak' },
+                'leasing-privatbil-fwd':       { field: 'drive', value: 'Foran' },
             };
 
             function applyFiltersAndSort(containerId = 'main-cars-grid', context = 'list') {

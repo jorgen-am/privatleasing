@@ -3,7 +3,7 @@ title: "Jørgen Hanisch"
 position: "Releasing / Web / Marked"
 email: "jorgen@automedia.as"
 phone: "41420541"
-image: "https://cdn.sanity.io/images/1lzskaub/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
 type: "ansatte"
 layout: "single"
 ---

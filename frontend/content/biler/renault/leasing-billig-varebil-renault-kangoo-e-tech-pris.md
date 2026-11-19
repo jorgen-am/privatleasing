@@ -1,16 +1,16 @@
 ---
-title: "Kangoo E-Tech"
+title: "Electric L1 Start 45 kWh"
 brand: "Renault"
 slug: "leasing-billig-varebil-renault-kangoo-e-tech-pris"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/151ab794f060df378ef63702eb1c9a965be63f23-894x481.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/151ab794f060df378ef63702eb1c9a965be63f23-894x481.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/652502f349073e75501e99eb_Kangoo%20van%20front%20-%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/151ab794f060df378ef63702eb1c9a965be63f23-894x481.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/8268dfffe65d1e8f5def3d3a7316f84cb8631620-894x481.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/a2d337eb76774ece50ef541c01c4b7135a409b75-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/bc195a6df28c130e0c84538f13e313b15a46475a-850x450.jpg?fm=webp&q=80"
-modeldescription: "Electric L1 Start 45 kWh"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/151ab794f060df378ef63702eb1c9a965be63f23-894x481.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/8268dfffe65d1e8f5def3d3a7316f84cb8631620-894x481.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a2d337eb76774ece50ef541c01c4b7135a409b75-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/bc195a6df28c130e0c84538f13e313b15a46475a-850x450.jpg?fm=webp&q=80"
+modeldescription: "Renault Kangoo E-Tech varebil"
 
 alttext: "Lease Renault Kangoo E-Tech uten innskudd"
 
@@ -18,15 +18,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L1"
 
 numberofgears: "1"
 
@@ -34,7 +32,7 @@ doors: "4"
 
 seats: "2"
 
-performancehk: "120"
+performancehk: "122"
 
 performancewatt: "88"
 
@@ -42,9 +40,7 @@ torque: "245"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "282"
+range: "285"
 
 grossbattery: "45"
 
@@ -52,13 +48,7 @@ netbattery: "44"
 
 chargingdc: "80"
 
-maxhomechargeac: "22 kW"
-
-chargingspeed: "39 min"
-
-powerusage: "20,5 kWh/100 km"
-
-warranty: "5 år/10000 km"
+chargingspeed: "30"
 
 allowedtotalweight: "2370"
 
@@ -88,10 +78,6 @@ wheelbase: "2716"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
-
 metatitle: "Renault Kangoo E-Tech leasing uten innskudd Firmabil"
 
 metadescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargjøring -  vrakpant. Vi tilbyr forsikring -  bom -  lade- -  drivstoffkort og service på EN faktura"
@@ -104,15 +90,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5335"
-
-sourceslugad: "https://www.auto-data.net/no/renault-kangoo-iii-rapid-45-kwh-e-tech-122hp-electric-48644"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

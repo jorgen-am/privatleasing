@@ -1,4 +1,4 @@
 ---
-title: "Kundecase"
+title: "kundecase"
 layout: "list"
 ---

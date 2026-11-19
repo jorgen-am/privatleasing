@@ -1,49 +1,41 @@
 ---
-title: "Transit Custom"
+title: "2.0L EcoBlue 136 HK Auto L2 Trend AWD"
 brand: "Ford"
 slug: "varebil-ford-transit-custom-leasing"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/251a86e7ab33db6cd0acf9c74b1118760c43d697-850x450.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/644a2b2dd4d07100a843ea01_Ford%20Transit%20Custom%20side.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/251a86e7ab33db6cd0acf9c74b1118760c43d697-850x450.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6ab38fd05aa889c16e5f0079_Ford-transit-custom-l1-varebil-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/251a86e7ab33db6cd0acf9c74b1118760c43d697-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/973ff079af028a40ab88fdfa161db1947b13d22f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/60fe6694941e7cd0a4e09ee5cd857bc80c30cc79-850x450.jpg?fm=webp&q=80"
-modeldescription: "2 TD Trend L2"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/251a86e7ab33db6cd0acf9c74b1118760c43d697-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/973ff079af028a40ab88fdfa161db1947b13d22f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/60fe6694941e7cd0a4e09ee5cd857bc80c30cc79-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Custom varebil"
 
-alttext: "Leasing av Ford Transit Custom varebil uten innskudd"
+alttext: "Ford Transit Custom 2.0L EcoBlue 136 HK L2 Auto Trend AWD foran venstre"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "AWD"
 
-gear: "Manuell"
-
-lversion: "L2"
+gear: "Automat"
 
 numberofgears: "6"
 
 doors: "4"
 
-seats: "2"
+seats: "3"
 
-performancehk: "170"
+performancehk: "136"
 
 performancewatt: "125"
 
 torque: "390"
-
-cotwoemission: "192"
-
-warranty: "5 år/20000 km"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "3200"
 
@@ -71,11 +63,13 @@ height: "1923"
 
 wheelbase: "3300"
 
-yearmodel: "2025"
+yearmodel: "2027"
 
-color: "white"
+color: "Hvit"
 
-interior: "black"
+interior: "Sort"
+
+towbar: true
 
 metatitle: "Ford Transit Custom varebil leasing uten innskudd"
 
@@ -89,13 +83,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/5592/ford-transit-custom-l2-lang-2-0l-ecoblue-170hk-trend"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

@@ -1,20 +1,20 @@
 ---
-title: "eTerron 9  102 kWh Luxury"
+title: "eTerron 9 1022 kWh Luxury 4x4"
 brand: "Maxus"
 slug: "leasing-maxus-eterron-9-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/e613a558fea24e2f2ddb223debee9056feb72710-300x180.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/e613a558fea24e2f2ddb223debee9056feb72710-300x180.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6936bd589a97e5fee28c0f9c_Maxus-E-Terron-9-5-seter-pickup-foran-venstre-butikk.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/e613a558fea24e2f2ddb223debee9056feb72710-300x180.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/d29bea563ea18e78e1e79860eea32832dfb94de1-900x540.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3231674a26571cd6397c742649be9394688037d6-938x563.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/61aa4de5f9a6e005d0cd123ce123143bfa20f577-938x563.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/a656a53a3416d19c6c655ca1ad82d1dd67bbc237-938x563.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/247413f0b90e2da2bf4d98a99d692bf1d02341e8-938x563.jpg?fm=webp&q=80"
-modeldescription: "eTerron 9 102 - 2 kWh Luxury 4x4"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/e613a558fea24e2f2ddb223debee9056feb72710-300x180.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/d29bea563ea18e78e1e79860eea32832dfb94de1-900x540.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3231674a26571cd6397c742649be9394688037d6-938x563.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/61aa4de5f9a6e005d0cd123ce123143bfa20f577-938x563.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a656a53a3416d19c6c655ca1ad82d1dd67bbc237-938x563.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/247413f0b90e2da2bf4d98a99d692bf1d02341e8-938x563.jpg?fm=webp&q=80"
+modeldescription: "Maxus eTerron 9 varebil 102 kWh Luxury"
 
-alttext: "Maxus E-Terron 9 5-seter pickup -  foran venstre"
+alttext: "Maxus E-Terron 9 5-seter pickup foran venstre"
 
 pricezero: "9379"
 
@@ -22,17 +22,15 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
 body: "Pickup"
 
 drive: "AWD"
 
-gear: "Automat"
-
 doors: "4"
 
-seats: "5"
+seats: "2"
 
 performancehk: "442"
 
@@ -48,7 +46,7 @@ netbattery: "102"
 
 chargingdc: "115"
 
-maxhomechargeac: "11"
+chargingspeed: "42"
 
 payloadincdriver: "620"
 
@@ -62,12 +60,6 @@ height: "1800"
 
 wheelbase: "3300"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 metatitle: "Maxus eTerron 9 varebil 102 kWh Luxury leasing"
 
 metadescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargjøring -  vrakpant. Vi tilbyr forsikring -  bom -  lade- -  drivstoffkort og service på EN faktura"
@@ -78,15 +70,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Tilbud fra Berg Auto. NB tilbudet har med litt mer utstyr enn annonsen."
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=2490"
+consultant: "Paal / Berg Auto"
 
 chosepage: "Leasing Firmabil"
 

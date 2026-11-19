@@ -1,15 +1,15 @@
 ---
-title: "E-Deliver 7"
+title: "L2 H1 88 kWh 69 M3"
 brand: "Maxus"
 slug: "leasing-maxus-e-deliver-7-varebil-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6683bc851742776233be9993_Maxus%20E-Deliver%207%20varebil%20fra%20siden%20-%20Automedia%20leasing.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/02bc73bb9497c893dc6c2d0122dcb9c279447b58-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/56e8e6c62c88267a58e3be69dfcefd57f7f8e013-1000x500.jpg?fm=webp&q=80"
-modeldescription: "L2 H1 88 kWh 6 - 9 M3"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/02bc73bb9497c893dc6c2d0122dcb9c279447b58-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/56e8e6c62c88267a58e3be69dfcefd57f7f8e013-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Maxus E-Deliver 7 varebil"
 
 alttext: "Lease Maxus E-Deliver 7 varebil uten innskudd"
 
@@ -17,23 +17,21 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "AWD"
+drive: "Bakhjulsdrift"
 
 gear: "Automat"
 
-lversion: "L2"
-
 numberofgears: "1"
 
-doors: "5"
+doors: "4"
 
 seats: "3"
 
-performancehk: "260"
+performancehk: "204"
 
 performancewatt: "191"
 
@@ -41,7 +39,7 @@ torque: "520"
 
 numberofengines: "1"
 
-range: "335"
+range: "363"
 
 grossbattery: "88"
 
@@ -49,15 +47,7 @@ netbattery: "88"
 
 chargingdc: "90"
 
-maxhomechargeac: "22 kW"
-
-onephasehomechargeac: "11 kW"
-
-chargingspeed: "43 min"
-
-powerusage: "27,7 kWh/100 km"
-
-warranty: "5 år/10000 km"
+chargingspeed: "45"
 
 allowedtotalweight: "3500"
 
@@ -81,12 +71,6 @@ height: "1990"
 
 wheelbase: "3000"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 metatitle: "Maxus e-Deliver 7 leasing uten innskudd  AS"
 
 metadescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargjøring -  vrakpant. Vi tilbyr forsikring -  bom -  lade- -  drivstoffkort og service på EN faktura"
@@ -99,13 +83,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=17862"
+consultant: "Roy Arne"
 
 chosepage: "Leasing Firmabil"
 

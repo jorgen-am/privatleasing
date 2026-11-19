@@ -3,7 +3,7 @@ title: "Kenneth Johnsrød"
 position: "Regionsjef bilsalg/leasing"
 email: "kenneth@automedia.as"
 phone: "93641234"
-image: "https://cdn.sanity.io/images/1lzskaub/production/5997bc0abf18796668e420753d58775e745447ef-563x563.jpg"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/5997bc0abf18796668e420753d58775e745447ef-563x563.jpg"
 type: "ansatte"
 layout: "single"
 ---

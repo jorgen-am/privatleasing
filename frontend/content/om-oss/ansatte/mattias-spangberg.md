@@ -3,7 +3,7 @@ title: "Mattias Spångberg"
 position: "Daglig leder / Gründer"
 email: "mattias@automedia.as"
 phone: "96644001"
-image: "https://cdn.sanity.io/images/1lzskaub/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
 type: "ansatte"
 layout: "single"
 ---

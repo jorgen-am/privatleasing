@@ -1,15 +1,15 @@
 ---
-title: "EV9 firmabil"
+title: "Exclusive AWD 998 kWh 384 hk"
 brand: "Kia"
 slug: "leasing-kia-ev9-exclusive-varebil-som-firmabil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/058e114ba73fc5a429780000f251ecdae3197c1b-700x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/058e114ba73fc5a429780000f251ecdae3197c1b-700x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6707a22db8a760875f825089_Kia-ev9-gt-line-kampanje.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/058e114ba73fc5a429780000f251ecdae3197c1b-700x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/a80595670db62ea7d35efc8981b05452c20d6850-700x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/ecd0b280a04c295884257760e1198295b97da322-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Exclusive varebil"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/058e114ba73fc5a429780000f251ecdae3197c1b-700x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a80595670db62ea7d35efc8981b05452c20d6850-700x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/ecd0b280a04c295884257760e1198295b97da322-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Kia EV9 varebil"
 
 alttext: "KIA EV9 AWD Exclusive varebil foran venstre"
 
@@ -19,9 +19,9 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "SUV"
 
 drive: "AWD"
 
@@ -31,7 +31,7 @@ numberofgears: "1"
 
 doors: "5"
 
-seats: "2"
+seats: "3"
 
 performancehk: "384"
 
@@ -47,15 +47,7 @@ netbattery: "96"
 
 chargingdc: "240"
 
-maxhomechargeac: "11"
-
 chargingspeed: "24"
-
-powerusage: "22,8"
-
-warranty: "7 år/15000 km"
-
-batterywarranty: "7 år / 15000 km"
 
 allowedtotalweight: "3240"
 
@@ -75,11 +67,9 @@ height: "1755"
 
 wheelbase: "3100"
 
-yearmodel: "2025"
+yearmodel: "2026"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -95,15 +85,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Rabatt 51621 Frakt 10900 Farge: Aurora Black Pearl 7920 Hengerfeste 14320 chrome-extension:--efaidnbmnnnibpcajpcglclefindmkaj-https:--media.crystallize.com-bos-ecom-prod-26-1-26-d8b590a3-ev9-prisliste-12-02-2026.pdf"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=2420"
+consultant: "EA/BOS Lørenskog"
 
 chosepage: "Leasing Firmabil"
 

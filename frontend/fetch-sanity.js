@@ -124,7 +124,8 @@ async function run() {
     const dataDir = path.join(__dirname, 'data');
     if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir);
 
-    // --- 1. OMTALER ---
+// --- 1. OMTALER ---
+// ====================================================
     let omtalerFinal = data.omtaler || [];
     const csvPath = path.join(dataDir, 'omtaler.csv');
 
@@ -163,7 +164,8 @@ async function run() {
     fs.mkdirSync(omtalerDir, { recursive: true });
     fs.writeFileSync(path.join(omtalerDir, '_index.md'), `---\ntitle: "Kundeomtaler"\nurl: "/omtaler/"\n---`);
     
-    // --- 2. ARTIKLER / BLOGG ---
+// --- 2. ARTIKLER / BLOGG ---
+// ====================================================
     const postBaseDir = path.join(__dirname, 'content', 'post');
     if (fs.existsSync(postBaseDir)) {
         console.log('Sweep: Rydder gamle artikler...');
@@ -206,7 +208,8 @@ layout: "body"
 
     console.log(`✅ Lagret ${artiklerFiltered.length} artikler i kategoriserte mapper.`);
 
-    // --- 4. ANSATTE ---
+// --- 4. ANSATTE ---
+// ====================================================
     const ansatte = (data.alle_poster || []).filter(p => {
       const cat = (p.kategoriNavn || "").toLowerCase();
       const title = (p.title || "").toLowerCase();
@@ -273,7 +276,8 @@ ${blocksToText(person.body)}`;
     });
     fs.writeFileSync(path.join(dataDir, 'employees.json'), JSON.stringify(ansatte, null, 2));
 
-    // --- 5. BILER ---
+// --- 5. BILER ---
+// ====================================================    
     console.log('Sweep: Bygger /biler/ mappen med korrekt menystruktur...');
     const bilerBaseDir = path.join(__dirname, 'content', 'biler');
 
@@ -291,15 +295,15 @@ url: "/biler/"
     data.biler.forEach(car => {
       if (!car.brand) return;
 
-      const brandSlug = car.brand.toLowerCase().replace(/[^\w\s]/g, "").replace(/\s+/g, '-');
+      const brandSlug = car.brand.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^\w\s]/g, "").replace(/\s+/g, '-');
       const brandDir = path.join(bilerBaseDir, brandSlug);
 
       if (!fs.existsSync(brandDir)) {
           fs.mkdirSync(brandDir, { recursive: true });
           
           const seoData = data.kategorier.find(kat => kat.slug === brandSlug);
-          const finalTitle = seoData?.title || `Leasing av ${car.brand} varebil`;
-          const finalMeta = seoData?.description || `Finn gode tilbud på leasing av ${car.brand} varebil hos Automedia.`;
+          const finalTitle = seoData?.title || `Leasing av ${car.brand} privatbil`;
+          const finalMeta = seoData?.description || `Finn gode tilbud på leasing av ${car.brand} privatbil hos Automedia.`;
           const finalBody = seoData?.body ? toHTML(seoData.body) : "";
 
           fs.writeFileSync(path.join(brandDir, '_index.md'), `---
@@ -427,34 +431,29 @@ ${finalBody}`);
     console.log(`✅ Lagret ${data.biler.length} biler i /biler/[merke]/.`);
 
 
-    // --- 6. KATEGORISIDER ---
+// --- 6. KATEGORISIDER ---
+// ====================================================
     console.log('Bygger kategorisider under /biler/...');
 
     const CATEGORY_PAGES = [
         // Drivstoff
-        { slug: 'leasing-varebil-diesel',       field: 'fuel',  value: 'Diesel',        defaultTitle: 'Leasing av diesel varebil' },
-        { slug: 'leasing-varebil-bensin',        field: 'fuel',  value: 'Bensin',        defaultTitle: 'Leasing av bensin varebil' },
-        { slug: 'leasing-varebil-elektrisk',     field: 'fuel',  value: 'Elektrisitet',  defaultTitle: 'Leasing av elektrisk varebil' },
-        { slug: 'leasing-varebil-cng',           field: 'fuel',  value: 'CNG',           defaultTitle: 'Leasing av CNG varebil' },
-        // Hjuldrift
-        { slug: 'leasing-varebil-awd',           field: 'drive', value: 'AWD',           defaultTitle: 'Leasing av varebil med AWD' },
-        { slug: 'leasing-varebil-4wd',           field: 'drive', value: '4WD',           defaultTitle: 'Leasing av varebil med 4WD' },
-        { slug: 'leasing-varebil-fwd',           field: 'drive', value: 'Foran',         defaultTitle: 'Leasing av varebil med forhjulstrekk' },
-        { slug: 'leasing-varebil-rwd',           field: 'drive', value: 'Bak',           defaultTitle: 'Leasing av varebil med bakhjulstrekk' },
-        { slug: 'leasing-varebil-4motion',       field: 'drive', value: '4Motion',       defaultTitle: 'Leasing av varebil med 4Motion' },
-        // Karosseri
-        { slug: 'leasing-varebil-varebil',       field: 'body',  value: 'Varebil',       defaultTitle: 'Leasing av varebil' },
-        { slug: 'leasing-varebil-pickup',        field: 'body',  value: 'Pickup',        defaultTitle: 'Leasing av pickup' },
-        { slug: 'leasing-varebil-flerbruksbil',  field: 'body',  value: 'Flerbruksbil',  defaultTitle: 'Leasing av flerbruksbil' },
-        { slug: 'leasing-varebil-skapbil',       field: 'body',  value: 'Skapbil',       defaultTitle: 'Leasing av skapbil' },
+        { slug: 'leasing-privatbil-bensin',    field: 'fuel',  value: 'Bensin',       defaultTitle: 'bensin' },
+        { slug: 'leasing-privatbil-diesel',    field: 'fuel',  value: 'Diesel',       defaultTitle: 'diesel' },
+        { slug: 'leasing-privatbil-elektrisk', field: 'fuel',  value: 'Elektrisitet', defaultTitle: 'elektrisk' },
+        { slug: 'leasing-privatbil-cng',       field: 'fuel',  value: 'CNG',          defaultTitle: 'CNG' },
         // Dører
-        { slug: 'leasing-varebil-2-dorer',       field: 'doors', value: '2',             defaultTitle: 'Leasing av varebil med 2 dører' },
-        { slug: 'leasing-varebil-4-dorer',       field: 'doors', value: '4',             defaultTitle: 'Leasing av varebil med 4 dører' },
-        { slug: 'leasing-varebil-5-dorer',       field: 'doors', value: '5',             defaultTitle: 'Leasing av varebil med 5 dører' },
+        { slug: 'leasing-privatbil-2-dorer',   field: 'doors', value: '2',            defaultTitle: '2 dører' },
+        { slug: 'leasing-privatbil-4-dorer',   field: 'doors', value: '4',            defaultTitle: '4 dører' },
+        { slug: 'leasing-privatbil-5-dorer',   field: 'doors', value: '5',            defaultTitle: '5 dører' },
         // Seter
-        { slug: 'leasing-varebil-2-seter',       field: 'seats', value: '2',             defaultTitle: 'Leasing av varebil med 2 seter' },
-        { slug: 'leasing-varebil-3-seter',       field: 'seats', value: '3',             defaultTitle: 'Leasing av varebil med 3 seter' },
-        { slug: 'leasing-varebil-5-seter',       field: 'seats', value: '5',             defaultTitle: 'Leasing av varebil med 5 seter' },
+        { slug: 'leasing-privatbil-3-seter',   field: 'seats', value: '3',            defaultTitle: '3 seter' },
+        { slug: 'leasing-privatbil-5-seter',   field: 'seats', value: '5',            defaultTitle: '5 seter' },
+        { slug: 'leasing-privatbil-6-seter',   field: 'seats', value: '6',            defaultTitle: '6 seter' },
+        { slug: 'leasing-privatbil-7-seter',   field: 'seats', value: '7',            defaultTitle: '7 seter' },
+        // Hjuldrift
+        { slug: 'leasing-privatbil-awd',       field: 'drive', value: 'AWD',          defaultTitle: 'AWD' },
+        { slug: 'leasing-privatbil-rwd',       field: 'drive', value: 'Bak',          defaultTitle: 'bakhjulstrekk' },
+        { slug: 'leasing-privatbil-fwd',       field: 'drive', value: 'Foran',        defaultTitle: 'forhjulstrekk' },
     ];
 
     CATEGORY_PAGES.forEach(cat => {
@@ -475,8 +474,37 @@ url: "/biler/${cat.slug}/"
 ${finalBody}`);
     });
 
+    const ALL_BRANDS = [
+      'Audi', 'BMW', 'BYD', 'Citroën', 'Fiat', 'Ford', 'Honda', 'Hyundai',
+      'Isuzu', 'Kia', 'Maxus', 'Mazda', 'Mercedes', 'MG', 'MINI', 'Mitsubishi',
+      'Nissan', 'Opel', 'Peugeot', 'Polestar', 'Renault', 'Skoda', 'Smart',
+      'Suzuki', 'Tesla', 'Toyota', 'Volkswagen', 'Volvo', 'Xpeng'
+    ];
+
+    ALL_BRANDS.forEach(brandName => {
+      const brandSlug = brandName.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^\w\s]/g, "").replace(/\s+/g, '-');
+      const brandDir = path.join(bilerBaseDir, brandSlug);
+      if (!fs.existsSync(brandDir)) {
+        fs.mkdirSync(brandDir, { recursive: true });
+        const seoData = data.kategorier.find(kat => kat.slug === brandSlug);
+        const finalTitle = seoData?.title || `Leasing av ${brandName} privatbil`;
+        const finalMeta = seoData?.description || `Finn gode tilbud på leasing av ${brandName} privatbil hos Automedia.`;
+        const finalBody = seoData?.body ? toHTML(seoData.body) : "";
+        fs.writeFileSync(path.join(brandDir, '_index.md'), `---
+title: "${finalTitle.replace(/"/g, '\\"')}"
+metadescription: "${finalMeta.replace(/"/g, '\\"')}"
+layout: "list"
+url: "/biler/${brandSlug}/"
+---
+${finalBody}`);
+      }
+    });
+
     console.log(`✅ Opprettet ${CATEGORY_PAGES.length} kategorisider.`);
-    // --- 7. TJENESTER ---
+
+
+// --- 7. TJENESTER ---
+// ====================================================
     const servicesDir = path.join(__dirname, 'content', 'tjenester');
     if (fs.existsSync(servicesDir)) {
         console.log('Sweep: Rydder gamle tjenester...');

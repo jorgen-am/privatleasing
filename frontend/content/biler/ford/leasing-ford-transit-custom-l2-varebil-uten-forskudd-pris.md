@@ -1,29 +1,29 @@
 ---
-title: "Transit Custom"
+title: "2.0L EcoBlue 136 HK Auto L2 Limited AWD"
 brand: "Ford"
 slug: "leasing-ford-transit-custom-l2-varebil-uten-forskudd-pris"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/34901374ed11ff0d4a74d9cf6c0aead782b0a324-956x506.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/65265afd278f6120da3dd0ba_Ford%20Transit%20Custom%20-%20front.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/34901374ed11ff0d4a74d9cf6c0aead782b0a324-956x506.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6ab38fd05aa889c16e5f0079_Ford-transit-custom-l1-varebil-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/34901374ed11ff0d4a74d9cf6c0aead782b0a324-956x506.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/548ee02361ca684a002cabf781de916644440c43-956x506.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/1398cda7fc094dfe192a2a5f26d4a7b95de2ec8b-956x506.jpg?fm=webp&q=80"
-modeldescription: "2 EcoBlue L2"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/34901374ed11ff0d4a74d9cf6c0aead782b0a324-956x506.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/548ee02361ca684a002cabf781de916644440c43-956x506.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1398cda7fc094dfe192a2a5f26d4a7b95de2ec8b-956x506.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Custom varebil"
+
+alttext: "Ford Transit Custom 2.0L EcoBlue 136 HK Auto L2 Limited AWD foran venstre"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "AWD"
 
-gear: "Manuell"
-
-lversion: "L2"
+gear: "Automat"
 
 numberofgears: "6"
 
@@ -36,12 +36,6 @@ performancehk: "170"
 performancewatt: "125"
 
 torque: "390"
-
-cotwoemission: "192"
-
-warranty: "5 år/20000 km"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "3200"
 
@@ -69,11 +63,11 @@ height: "1923"
 
 wheelbase: "3300"
 
-yearmodel: "2025"
+yearmodel: "2027"
 
-color: "white"
+color: "Hvit"
 
-interior: "black"
+interior: "Sort"
 
 campaign: true
 
@@ -89,15 +83,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 8500 rabatt 10 prosent  https:--docs.google.com-document-d-1kP5GdtSHmy8pQnyPyh950gQxsvE6SOvWAOS7mBsUhP4-edit?tab=t.0"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5595"
+consultant: "Røhne Selmer"
 
 chosepage: "Leasing Firmabil"
 

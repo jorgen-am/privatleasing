@@ -1,10 +1,10 @@
 ---
 title: "Leasing av varebil"
-image: "https://cdn.sanity.io/images/1lzskaub/production/6eb41376a09cbfa0dc015e7c913db6ab88c5369f-50x50.png"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/6eb41376a09cbfa0dc015e7c913db6ab88c5369f-50x50.png"
 alt: "Ønsker du å gå ut av leasingavtalen før tiden? Med releasing hjelper vi deg gjøre det billigere, raskere, enkelt og helt trygt."
 email: "mattias@automedia.as"
 salesman: "Mattias Spångberg"
-salesmanimage: "https://cdn.sanity.io/images/1lzskaub/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
+salesmanimage: "https://cdn.sanity.io/images/zm2rz2y0/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
 salesmanphone: "96644001"
 salesmanlinkedin: "https://www.linkedin.com/in/mattias-sp%C3%A5ngberg-90119b20/"
 salesmancampaign: "Daglig leder / Gründer"

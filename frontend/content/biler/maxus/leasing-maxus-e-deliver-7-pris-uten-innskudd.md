@@ -1,15 +1,15 @@
 ---
-title: "E-Deliver 7"
+title: "L1 H1 88 kWh"
 brand: "Maxus"
 slug: "leasing-maxus-e-deliver-7-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6683bc851742776233be9993_Maxus%20E-Deliver%207%20varebil%20fra%20siden%20-%20Automedia%20leasing.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/02bc73bb9497c893dc6c2d0122dcb9c279447b58-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/56e8e6c62c88267a58e3be69dfcefd57f7f8e013-1000x500.jpg?fm=webp&q=80"
-modeldescription: "L1 H1 88 kWh"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/29ee90cbb837803bbb5c719f62c7f530635c5fbe-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/02bc73bb9497c893dc6c2d0122dcb9c279447b58-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/56e8e6c62c88267a58e3be69dfcefd57f7f8e013-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Maxus E-Deliver 7 varebil"
 
 alttext: "Lease Maxus E-Deliver 7 varebil uten innskudd"
 
@@ -19,15 +19,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "AWD"
 
 gear: "Automat"
-
-lversion: "L1"
 
 doors: "4"
 
@@ -39,7 +37,7 @@ performancewatt: "150"
 
 torque: "330"
 
-range: "370"
+range: "362"
 
 grossbattery: "88"
 
@@ -47,7 +45,7 @@ netbattery: "88"
 
 chargingdc: "90"
 
-maxhomechargeac: "11"
+chargingspeed: "43"
 
 payloadincdriver: "1130"
 
@@ -62,10 +60,6 @@ height: "1990"
 wheelbase: "3000"
 
 yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
 
 campaign: true
 
@@ -83,13 +77,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=2480"
+consultant: "Roy Arne"
 
 chosepage: "Leasing Firmabil"
 

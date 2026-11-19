@@ -1,29 +1,27 @@
 ---
-title: "Combo-e"
+title: "50 KwH L2 Elite"
 brand: "Opel"
 slug: "varebil-leasing-opel-combo-e-pris"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/7a58f658ece03131728ba0f94688c14c8de2733c-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/7a58f658ece03131728ba0f94688c14c8de2733c-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/646f391be45e8edf2e574786_Opel%20Combo-e%2C%20gul%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/7a58f658ece03131728ba0f94688c14c8de2733c-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/92fbbcb7ea0cccaecba594c9c90fe13bb6d549d1-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3164ef9d6979e29b8b1a38a0640625d9d9da95f6-850x450.jpg?fm=webp&q=80"
-modeldescription: "50 KwH L2 Elite"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7a58f658ece03131728ba0f94688c14c8de2733c-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/92fbbcb7ea0cccaecba594c9c90fe13bb6d549d1-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3164ef9d6979e29b8b1a38a0640625d9d9da95f6-850x450.jpg?fm=webp&q=80"
+modeldescription: "Opel Combo-e varebil"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L2"
 
 numberofgears: "1"
 
@@ -31,7 +29,7 @@ doors: "4"
 
 seats: "2"
 
-performancehk: "136"
+performancehk: "102"
 
 performancewatt: "100"
 
@@ -39,29 +37,13 @@ torque: "260"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "278"
+range: "275"
 
 grossbattery: "52"
 
 netbattery: "50"
 
 chargingdc: "100"
-
-maxhomechargeac: "11 kW"
-
-onephasehomechargeac: "7,4 kW"
-
-chargingspeed: "30 min"
-
-powerusage: "19,2 kWh/100 km"
-
-warranty: "5 år/20000 km"
-
-batterywarranty: "8 år/16000 km"
-
-warrantyrust: "8 år"
 
 allowedtotalweight: "2400"
 
@@ -89,12 +71,6 @@ height: "1812"
 
 wheelbase: "2975"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 fastdelivery: true
 
 metatitle: "Opel Combo varebil leasing uten innskudd"
@@ -109,13 +85,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5260"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

@@ -1,17 +1,17 @@
 ---
-title: "Transit Custom"
+title: "2.0L EcoBlue 136 HK Auto L1 Limited AWD"
 brand: "Ford"
 slug: "leasing-ford-transit-custom-varebil-uten-forskudd-pris"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/3735666f66542b46a4ce2cd8a78f9cca7bda843a-850x450.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67e16a19d7f76eb92663130c_1.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/3735666f66542b46a4ce2cd8a78f9cca7bda843a-850x450.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6ab38fd05aa889c16e5f0079_Ford-transit-custom-l1-varebil-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/3735666f66542b46a4ce2cd8a78f9cca7bda843a-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/b912fb14c074f56871ba8e75bcbe4e5aaeab95b4-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/2e099c44f269a267932a14cbb559b3cd3b219e58-850x450.jpg?fm=webp&q=80"
-modeldescription: "2 EcoBlue Auto AWD L1 Limited"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3735666f66542b46a4ce2cd8a78f9cca7bda843a-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/b912fb14c074f56871ba8e75bcbe4e5aaeab95b4-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2e099c44f269a267932a14cbb559b3cd3b219e58-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Custom varebil"
 
-alttext: "Bilder av Ford Transit Custom front"
+alttext: "Ford Transit Custom 2.0L EcoBlue 136 HK L1 Auto Limited AWD foran venstre"
 
 pricezero: "7190"
 
@@ -19,23 +19,21 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "AWD"
 
 gear: "Automat"
-
-lversion: "L1"
 
 numberofgears: "6"
 
 doors: "4"
 
-seats: "2"
+seats: "3"
 
-performancehk: "170"
+performancehk: "136"
 
 performancewatt: "125"
 
@@ -43,25 +41,7 @@ torque: "390"
 
 numberofengines: "1"
 
-cotwoemission: "217"
-
 range: "639"
-
-maxhomechargeac: "none"
-
-onephasehomechargeac: "none"
-
-chargingspeed: "none"
-
-powerusage: "8,6 L/100 km"
-
-warranty: "5 år/20000 km"
-
-batterywarranty: "none"
-
-warrantypaint: "3 år"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "3000"
 
@@ -93,11 +73,9 @@ wheelbase: "2933"
 
 turningcircle: "10.9"
 
-yearmodel: "2025"
+yearmodel: "2027"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 frontpage: true
 
@@ -115,15 +93,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 8500 rabatt 10 prosent  https:--docs.google.com-document-d-1kP5GdtSHmy8pQnyPyh950gQxsvE6SOvWAOS7mBsUhP4-edit?tab=t.0"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5586"
+consultant: "Ford"
 
 chosepage: "Leasing Firmabil"
 

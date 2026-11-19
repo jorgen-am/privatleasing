@@ -1,17 +1,17 @@
 ---
-title: "E-Transit Courier"
+title: "Trend"
 brand: "Ford"
 slug: "leasing-ford-e-transit-courier-trend-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/6357fbc065f0a045301debadb38bd72dff989407-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/6357fbc065f0a045301debadb38bd72dff989407-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/69676db8c87ab924568400d4_Ford%20E-Transit%20Courier%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/6357fbc065f0a045301debadb38bd72dff989407-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/970c7621b1b422fa9ef75388f54e978890a2468e-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/b71602dcb56821a03a995ba5491c7f7adf03510a-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/52ad7b162e11fd3f9e448d6937dd4ce28c43f3ea-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/4397796dbde411ea80867df62e84371bfb69d2aa-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Trend"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/6357fbc065f0a045301debadb38bd72dff989407-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/970c7621b1b422fa9ef75388f54e978890a2468e-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/b71602dcb56821a03a995ba5491c7f7adf03510a-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/52ad7b162e11fd3f9e448d6937dd4ce28c43f3ea-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/4397796dbde411ea80867df62e84371bfb69d2aa-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Ford E-Transit Courier varebil"
 
 alttext: "Ford E-Transit Courier fra siden"
 
@@ -21,17 +21,17 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
 numberofgears: "1"
 
-doors: "5"
+doors: "4"
 
 seats: "2"
 
@@ -43,9 +43,7 @@ torque: "290"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "300"
+range: "280"
 
 grossbattery: "54"
 
@@ -53,21 +51,7 @@ netbattery: "43"
 
 chargingdc: "100"
 
-maxhomechargeac: "11"
-
-onephasehomechargeac: "7,4"
-
 chargingspeed: "23"
-
-powerusage: "16"
-
-warranty: "5 책r/20000 km"
-
-batterywarranty: "8 책r/16000 km"
-
-warrantypaint: "3 책r"
-
-warrantyrust: "12 책r"
 
 allowedtotalweight: "2250"
 
@@ -99,11 +83,7 @@ wheelbase: "2692"
 
 turningcircle: "10.7"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 frontpage: true
 
@@ -121,15 +101,9 @@ opengraphdescription: "15000 km/책r -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Har lagt med dekor for 10k. Denne har et verdi p책 opptil 20k"
 
 availability: "FALSE"
-
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=63659"
 
 chosepage: "Leasing Firmabil"
 

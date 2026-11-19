@@ -1,19 +1,19 @@
 ---
-title: "Transit Courier"
+title: "1.0T ECOBOOST 125HP TREND"
 brand: "Ford"
 slug: "leasing-ford-transit-courier-1-0t-ecoboost-125hp-trend-u-innskudd-automedia"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/c53d3cd2054b3053d557d2bbf55dc4b9c08d2e63-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/c53d3cd2054b3053d557d2bbf55dc4b9c08d2e63-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/68dfca740366f1cbd7459ab3_Ford%20Transit%20Courier%20ECOBoost%20foran%20venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/c53d3cd2054b3053d557d2bbf55dc4b9c08d2e63-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/aa761bfd158e1ac1bed7f887abb49d92e8b4929f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/e00b0c6b3d8c7e7a24833498355f035a8acdbc4d-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/30c352af35c78e5aec9a5223b97761a5b4bb0c43-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/6562930ddeb1f4ec12c9b91758d2271e258ccc63-850x450.jpg?fm=webp&q=80"
-modeldescription: "1 T ECOBOOST 125HP TREND"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c53d3cd2054b3053d557d2bbf55dc4b9c08d2e63-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/aa761bfd158e1ac1bed7f887abb49d92e8b4929f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/e00b0c6b3d8c7e7a24833498355f035a8acdbc4d-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/30c352af35c78e5aec9a5223b97761a5b4bb0c43-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/6562930ddeb1f4ec12c9b91758d2271e258ccc63-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Courier varebil"
 
-alttext: "Ford Transit Courier 1 T ECOBOOST foran venstre"
+alttext: "Ford Transit Courier 1.0 T ECOBOOST foran venstre"
 
 pricezero: "4790"
 
@@ -21,21 +21,21 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Bensin"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
-gear: "Manuell"
+gear: "Automat"
 
 numberofgears: "6"
 
-doors: "4"
+doors: "5"
 
-seats: "5"
+seats: "2"
 
-performancehk: "100"
+performancehk: "125"
 
 performancewatt: "73"
 
@@ -43,25 +43,7 @@ torque: "170"
 
 numberofengines: "1"
 
-cotwoemission: "165"
-
 range: "640"
-
-maxhomechargeac: "none"
-
-onephasehomechargeac: "none"
-
-chargingspeed: "none"
-
-powerusage: "0,7 l/mil"
-
-warranty: "5 år/20000 km"
-
-batterywarranty: "none"
-
-warrantypaint: "3 år"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "1999"
 
@@ -93,12 +75,6 @@ wheelbase: "3062"
 
 turningcircle: "10.7"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 campaign: true
 
 metatitle: "Ford Transit Courier leasing uten innskudd"
@@ -111,15 +87,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "NB! Annonsert bil har ikke noe ekstrautstyr slik tilbud sier"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/5560/ford-transit-connect-1-0-ecoboost-100hk-l2-trend"
+consultant: "Røhne Selmer"
 
 chosepage: "Leasing Firmabil"
 

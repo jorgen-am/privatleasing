@@ -1,15 +1,15 @@
 ---
-title: "Proace EV"
+title: "1.5D Comfort L2"
 brand: "Toyota"
 slug: "leasing-toyota-proace-city-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/4c95c60019664b3734e3b8abad622394b9776925-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/4c95c60019664b3734e3b8abad622394b9776925-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6454d750cc16401caa3383d6_Toyota%20Proace%20City%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/4c95c60019664b3734e3b8abad622394b9776925-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/4929ca59492b53a16d17f105550c4be5642a6a02-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/909d05ffa7cbc5a12501909e94a553b27618dda9-850x450.jpg?fm=webp&q=80"
-modeldescription: "1.5D Comfort L2"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/4c95c60019664b3734e3b8abad622394b9776925-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/4929ca59492b53a16d17f105550c4be5642a6a02-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/909d05ffa7cbc5a12501909e94a553b27618dda9-850x450.jpg?fm=webp&q=80"
+modeldescription: "Toyota Proace City varebil"
 
 alttext: "Lease Toyota Proace City L2 uten innskudd"
 
@@ -17,15 +17,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L2"
 
 numberofgears: "1"
 
@@ -33,15 +31,13 @@ doors: "5"
 
 seats: "3"
 
-performancehk: "136"
+performancehk: "130"
 
 performancewatt: "100"
 
 torque: "260"
 
 numberofengines: "1"
-
-cotwoemission: "0"
 
 range: "216"
 
@@ -50,20 +46,6 @@ grossbattery: "75"
 netbattery: "68"
 
 chargingdc: "100"
-
-maxhomechargeac: "11 kW"
-
-chargingspeed: "38 min"
-
-powerusage: "27,9 kWh/100 km"
-
-warranty: "5 år/20000 km"
-
-batterywarranty: "8 år/16000 km"
-
-warrantypaint: "3 år"
-
-warrantyrust: "6 år"
 
 allowedtotalweight: "2875"
 
@@ -93,12 +75,6 @@ wheelbase: "3275"
 
 turningcircle: "12.4"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 campaign: true
 
 fastdelivery: true
@@ -115,15 +91,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/64789/toyota-proace-ev-l1-21mod"
-
-sourceslugad: "https://www.auto-data.net/no/toyota-proace-ii-generation-4357"
+consultant: "Toyota Moss"
 
 chosepage: "Leasing Firmabil"
 

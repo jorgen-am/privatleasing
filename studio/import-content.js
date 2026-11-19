@@ -1,3 +1,4 @@
+require('dotenv').config({ path: require('path').resolve(__dirname, '../.env') });
 const fs = require('fs');
 const Papa = require('papaparse');
 const axios = require('axios');
@@ -6,9 +7,10 @@ const { htmlToBlocks } = require('@sanity/block-tools');
 const { JSDOM } = require('jsdom');
 
 // --- KONFIGURASJON ---
-const projectId = 'zm2rz2y0';
-const dataset = 'production';
-const apiToken = 'skzuZbi2qcpRAQJOOcD96edEIB4GZkr40YsMHikgRBMuFGpBycCLGMNm5IcWIiRFFTU6ZXclut6QxoniGESvcQGCKSpBNo2Iy81gQRQwHIT2haNbX9PVBoiSyVsSvQsqjceSZYQc92JjLCS9CdEk7pn7UBO9BNg1mjboxWJTri3x8ChsIiUv';
+const projectId = process.env.SANITY_PROJECT_ID;
+const dataset = process.env.SANITY_DATASET;
+const apiToken = process.env.SANITY_TOKEN;
+// ---------------------
 
 // VELG FIL (Kjør én og én)
 const CURRENT_TYPE = 'post'; // Sett til 'post', 'service', eller 'review'

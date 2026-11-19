@@ -1,10 +1,10 @@
 ---
 title: "Reklame på bil"
-image: "https://cdn.sanity.io/images/1lzskaub/production/a5fa1f05cc108799196abcb7b9d5b965aac06f9d-65x65.png"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/a5fa1f05cc108799196abcb7b9d5b965aac06f9d-65x65.png"
 alt: "Ønsker du daglig tilstedeværelse hos målgruppen som ikke kan klikkes, lukkes eller swipes bort? Reklame på bil gir deg langsiktig synlighet i trafikk og lokalområdet"
 email: "mattias@automedia.as"
 salesman: "Mattias Spångberg"
-salesmanimage: "https://cdn.sanity.io/images/1lzskaub/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
+salesmanimage: "https://cdn.sanity.io/images/zm2rz2y0/production/38f713cdd127059d3eb8d5b965ad87ab42ace67c-319x319.jpg"
 salesmanphone: "96644001"
 salesmanlinkedin: "https://www.linkedin.com/in/mattias-sp%C3%A5ngberg-90119b20/"
 salesmancampaign: "Daglig leder / Gründer"

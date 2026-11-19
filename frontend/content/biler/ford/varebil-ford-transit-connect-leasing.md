@@ -1,15 +1,15 @@
 ---
-title: "Transit Connect"
+title: "1.5T DCI Proff L1"
 brand: "Ford"
 slug: "varebil-ford-transit-connect-leasing"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/605b3489a0010ac50f29c66cc6d73540eb9e0df6-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/605b3489a0010ac50f29c66cc6d73540eb9e0df6-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6458f373cd7bb346ecc90607_Ford%20Transit%20Connect%20side%2C%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/605b3489a0010ac50f29c66cc6d73540eb9e0df6-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3190fb049d46672e4ed8013f93fd42afa29e31ab-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/93c588786c93234392b02d781ded0823ce2a7e52-850x450.jpg?fm=webp&q=80"
-modeldescription: "1.5 TDCI Proff L1"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/605b3489a0010ac50f29c66cc6d73540eb9e0df6-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3190fb049d46672e4ed8013f93fd42afa29e31ab-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/93c588786c93234392b02d781ded0823ce2a7e52-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Connect varebil"
 
 alttext: "Lease Ford Transit Connect uten innskudd"
 
@@ -17,31 +17,25 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
-gear: "Manuell"
-
-lversion: "L1"
+gear: "Automat"
 
 numberofgears: "6"
 
 doors: "4"
 
-seats: "5"
+seats: "2"
 
 performancehk: "100"
 
 performancewatt: "73"
 
 torque: "240"
-
-cotwoemission: "149"
-
-warranty: "5 år/20000 km"
 
 allowedtotalweight: "2405"
 
@@ -69,10 +63,6 @@ wheelbase: "2662"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
-
 fastdelivery: true
 
 metatitle: "Ford Transit Connect leasing uten innskudd  AS"
@@ -87,13 +77,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/5545/ford-transit-connect-1-5l-tdci-ecoblue-100hk-l1-proff-pluss"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

@@ -1,16 +1,16 @@
 ---
-title: "Vito"
+title: "V116 A2 Pro Edition auto 4x4"
 brand: "Mercedes"
 slug: "leasing-mercedes-vito-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/90720fd5232ddd1de969f9af7f2b9f410380adf7-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/90720fd5232ddd1de969f9af7f2b9f410380adf7-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/646f2861662a73c26ddb5ece_Mercedes%20Vito%20side_silver.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/90720fd5232ddd1de969f9af7f2b9f410380adf7-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/2e286d27536059838709c2c720d10f9bb5ae092c-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/23defa0a493942f6cfe9bb137a035dbb98ac5a7f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/32ce63fb82cd74fd372ae7389c798c7f806b10b1-850x450.jpg?fm=webp&q=80"
-modeldescription: "V116 A2 Pro Edition auto 4x4"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/90720fd5232ddd1de969f9af7f2b9f410380adf7-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2e286d27536059838709c2c720d10f9bb5ae092c-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/23defa0a493942f6cfe9bb137a035dbb98ac5a7f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/32ce63fb82cd74fd372ae7389c798c7f806b10b1-850x450.jpg?fm=webp&q=80"
+modeldescription: "Mercedes Vito varebil"
 
 alttext: "Leasing av Mercedes Vito uten innskudd Kampanje Automedia AS"
 
@@ -20,9 +20,9 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
 drive: "AWD"
 
@@ -37,8 +37,6 @@ seats: "2"
 performancehk: "163"
 
 torque: "380"
-
-cotwoemission: "188"
 
 allowedtotalweight: "2800"
 
@@ -66,11 +64,7 @@ height: "1910"
 
 wheelbase: "3200"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -84,15 +78,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Måtte rabattere veldig for å matche tilbud - send til Hogne direkt ved lead"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslugad: "https://www.auto-data.net/no/mercedes-benz-vito-w447-facelift-2023-panel-van-long-116-cdi-163hp-4matic-9g-tronic-55929"
+consultant: "Hogne Erik Arnesen"
 
 chosepage: "Leasing Firmabil"
 

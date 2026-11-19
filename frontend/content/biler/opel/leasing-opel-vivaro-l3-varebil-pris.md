@@ -1,31 +1,33 @@
 ---
-title: "Vivaro"
+title: "2.0 D L3 Elite"
 brand: "Opel"
 slug: "leasing-opel-vivaro-l3-varebil-pris"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/e6090ed14cb2bfe1fed87a7cdd3f59335fc1fc3c-492x285.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/e6090ed14cb2bfe1fed87a7cdd3f59335fc1fc3c-492x285.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/62aad898cd781c3dbfc283aa_Opel%20Vivaro%202%2C0D_vit_side_web.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/e6090ed14cb2bfe1fed87a7cdd3f59335fc1fc3c-492x285.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/57f4e1255bd016d8d78b7795f9283fd781b183a2-600x373.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/7b400295cd7c116af0acb3ee9816e93fa34ec53e-554x321.png?fm=webp&q=80"
-modeldescription: "2 D L3 Elite"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/e6090ed14cb2bfe1fed87a7cdd3f59335fc1fc3c-492x285.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/57f4e1255bd016d8d78b7795f9283fd781b183a2-600x373.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7b400295cd7c116af0acb3ee9816e93fa34ec53e-554x321.png?fm=webp&q=80"
+modeldescription: "Opel Vivaro varebil"
 
-alttext: "Leasing av Opel Vivaro 2 D L3 Elite varebil – romslighet og effektivitet uten innskudd"
+alttext: "Leasing av Opel Vivaro 2.0 D L3 Elite varebil – romslighet og effektivitet uten innskudd"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
-gear: "Automat"
+gear: "Manuell"
 
-lversion: "L3"
+doors: "4"
+
+seats: "3"
 
 performancehk: "145"
 
@@ -34,12 +36,6 @@ torque: "340"
 trailerwbreak: "2500"
 
 length: "5309"
-
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
 
 metatitle: "Opel Vivaro varebil leasing uten innskudd"
 
@@ -53,11 +49,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

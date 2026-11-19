@@ -1,15 +1,15 @@
 ---
-title: "D-Max EV"
+title: "BEV 4WD D Cab Black Edition"
 brand: "Isuzu"
 slug: "isuzu-d-max-ev-black-edition-4x4-double-cab-varebil-leasing-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/10fdc25754cff2563e2d925e864622f91e2443ed-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/10fdc25754cff2563e2d925e864622f91e2443ed-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/699468a360f761dcaf7b7e55_Isuzu%20D-MAX%20EV%20BEV%204WD%20D%20Cab%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/10fdc25754cff2563e2d925e864622f91e2443ed-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/6a51d969ae4d5d85b343ec0c0886be3d9835dc7c-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/258bd13e0ea7625b09d408a45333fc85941efe2b-850x450.jpg?fm=webp&q=80"
-modeldescription: "BEV 4WD D Cab Black Edition"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/10fdc25754cff2563e2d925e864622f91e2443ed-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/6a51d969ae4d5d85b343ec0c0886be3d9835dc7c-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/258bd13e0ea7625b09d408a45333fc85941efe2b-850x450.jpg?fm=webp&q=80"
+modeldescription: "Isuzu D-MAX EV varebil"
 
 alttext: "Isuzu D-Max EV 4x4 front"
 
@@ -19,7 +19,7 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
 body: "Pickup"
 
@@ -31,9 +31,9 @@ numberofgears: "1"
 
 doors: "4"
 
-seats: "2"
+seats: "5"
 
-performancehk: "177"
+performancehk: "190"
 
 performancewatt: "130"
 
@@ -41,13 +41,15 @@ torque: "325"
 
 numberofengines: "2"
 
-range: "300"
+range: "263"
 
 grossbattery: "66"
 
 netbattery: "66"
 
 chargingdc: "100"
+
+chargingspeed: "60"
 
 allowedtotalweight: "3500"
 
@@ -67,11 +69,9 @@ wheelbase: "3125"
 
 turningcircle: "12.2"
 
-yearmodel: "2025"
+color: "Metallic lakk"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 fastdelivery: true
 
@@ -85,17 +85,9 @@ opengraphdescription: "15000 km/√•r -  fast rente -  vinterhjul -  frakt/klargj√
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=1771"
-
-sourceslugad: "https://www.auto-data.net/no/isuzu-d-max-iii-double-cab-facelift-2025-ev-66.9-kwh-190hp-4wd-56268"
+consultant: "Paal/Berg Auto"
 
 chosepage: "Leasing Firmabil"
 

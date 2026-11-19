@@ -1,10 +1,10 @@
 ---
 title: "Bedre pris?"
-image: "https://cdn.sanity.io/images/1lzskaub/production/bd66df39522258b55427017efcf5d07457329908-65x65.png"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/bd66df39522258b55427017efcf5d07457329908-65x65.png"
 alt: "Ønsker du å gå ut av leasingavtalen før tiden? Med releasing hjelper vi deg gjøre det billigere, raskere, enkelt og helt trygt."
 email: "jorgen@automedia.as"
 salesman: "Jørgen Hanisch"
-salesmanimage: "https://cdn.sanity.io/images/1lzskaub/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
+salesmanimage: "https://cdn.sanity.io/images/zm2rz2y0/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
 salesmanphone: "41420541"
 salesmanlinkedin: "https://www.linkedin.com/in/jorgenhanisch/"
 salesmancampaign: "Releasing / Web / Marked"

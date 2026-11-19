@@ -1,25 +1,25 @@
 ---
-title: "Euniq 5"
+title: "Exclusive 70 kwh"
 brand: "Maxus"
 slug: "varebil-maxus-euniq-elektrisk-leasing-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/c4bd0bf0debcc82d708b781577b7b83ecaef3f2f-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/c4bd0bf0debcc82d708b781577b7b83ecaef3f2f-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/63fc7d466f9ce3a4ebe534d7_Maxus%20Euniq%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/c4bd0bf0debcc82d708b781577b7b83ecaef3f2f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/dc3a2afeb394f3dc643229e51039ca2359b30ae4-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/b71c498f91e58e874723927ac259bb6fdd85d3b7-850x450.jpg?fm=webp&q=80"
-modeldescription: "Exclusive 70 kwh"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c4bd0bf0debcc82d708b781577b7b83ecaef3f2f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/dc3a2afeb394f3dc643229e51039ca2359b30ae4-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/b71c498f91e58e874723927ac259bb6fdd85d3b7-850x450.jpg?fm=webp&q=80"
+modeldescription: "Maxus Euniq 5 varebil"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Flerbruksbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
@@ -27,7 +27,7 @@ performancehk: "177"
 
 performancewatt: "130"
 
-range: "345"
+range: "300"
 
 grossbattery: "70"
 
@@ -36,12 +36,6 @@ netbattery: "70"
 chargingdc: "120"
 
 length: "4825"
-
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
 
 metatitle: "Maxus Euniq 5 elektrisk varebil leasing uten innskudd"
 
@@ -55,13 +49,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=2081"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

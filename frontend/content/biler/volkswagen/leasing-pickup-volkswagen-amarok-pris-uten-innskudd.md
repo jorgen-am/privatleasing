@@ -1,18 +1,18 @@
 ---
-title: "Amarok"
+title: "PanAmerica 3.0 TDI"
 brand: "Volkswagen"
 slug: "leasing-pickup-volkswagen-amarok-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/b6d347782f5ac31ebbd727fc4db0dc48c93bafc6-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/b6d347782f5ac31ebbd727fc4db0dc48c93bafc6-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67f3968f078ce35f79a7d4b9_Amarok%20PanAmericana%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/b6d347782f5ac31ebbd727fc4db0dc48c93bafc6-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/f5bf98b8378984ef5eff376e2d5d0cfb52719493-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/69d03787ad714d425655ae04a9cdc51b8a1459ff-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/bb6e2ed2cdae97d1f09f25a898c32813b9426034-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Pan America 3 TDI"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/b6d347782f5ac31ebbd727fc4db0dc48c93bafc6-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/f5bf98b8378984ef5eff376e2d5d0cfb52719493-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/69d03787ad714d425655ae04a9cdc51b8a1459ff-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/bb6e2ed2cdae97d1f09f25a898c32813b9426034-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Volkswagen Amarok varebil"
 
-alttext: "Volkswagen Amarok 3 TDI fra siden"
+alttext: "Volkswagen Amarok 3.0 TDI fra siden"
 
 pricezero: "9460"
 
@@ -20,7 +20,7 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
 body: "Pickup"
 
@@ -39,14 +39,6 @@ performancehk: "240"
 performancewatt: "176"
 
 torque: "600"
-
-cotwoemission: "271"
-
-warranty: "5 år/10000 km"
-
-warrantypaint: "3 år"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "3350"
 
@@ -74,9 +66,7 @@ turningcircle: "12.93"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -94,15 +84,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/6064/volkswagen-amarok-varebil-panamericana-240-hk-v6-tdi-10-trinns-autogir-varebil"
-
-sourceslugad: "https://www.auto-data.net/no/volkswagen-amarok-ii-3-tdi-v6-240hp-4motion-automatic-48660"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

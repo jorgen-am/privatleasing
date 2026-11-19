@@ -1,17 +1,17 @@
 ---
-title: "e-Transporter"
+title: "BEV 83KWH Pluss kort"
 brand: "Volkswagen"
 slug: "leasing-volkswagen-e-transporter-pluss-kort-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/7ec6e95e12a4a6ab22345a5517ec74909f5411d9-1000x500.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67e28081f2f45ff72f84f022_VW%20Transporter%202%20TDI%20150HK%20Pluss%20Kort%20Auto%204WD%20Front.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/7ec6e95e12a4a6ab22345a5517ec74909f5411d9-1000x500.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67e28081f2f45ff72f84f022_VW%20Transporter%202.0%20TDI%20150HK%20Pluss%20Kort%20Auto%204WD%20Front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/7ec6e95e12a4a6ab22345a5517ec74909f5411d9-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/5934c8d5c2cb5fb16741f82a1391ec715e2bb370-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/c536217f4b4ab9facaeb5b971517dd965104712c-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/23075b045a65f7da8f271cfc3f5301fb99655afb-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/0111270698e1f333d7cefddfe4704d603de253b9-1000x500.jpg?fm=webp&q=80"
-modeldescription: "BEV 83KWH Pluss kort"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7ec6e95e12a4a6ab22345a5517ec74909f5411d9-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/5934c8d5c2cb5fb16741f82a1391ec715e2bb370-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c536217f4b4ab9facaeb5b971517dd965104712c-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/23075b045a65f7da8f271cfc3f5301fb99655afb-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/0111270698e1f333d7cefddfe4704d603de253b9-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Volkswagen e-Transporter varebil"
 
 alttext: "Volkswagen e-Transporter Plus Kort foran venstre"
 
@@ -21,27 +21,25 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "AWD"
+drive: "Bakhjulsdrift"
 
 gear: "Automat"
 
-lversion: "Kort"
-
 numberofgears: "1"
 
-doors: "4"
+doors: "5"
 
-seats: "2"
+seats: "3"
 
-performancehk: "286"
+performancehk: "260"
 
 performancewatt: "286"
 
-range: "292"
+range: "310"
 
 grossbattery: "37"
 
@@ -49,9 +47,7 @@ netbattery: "70"
 
 chargingdc: "125"
 
-maxhomechargeac: "11"
-
-powerusage: "25-28,1 kWh/100 km"
+chargingspeed: "40"
 
 allowedtotalweight: "3350"
 
@@ -77,9 +73,7 @@ wheelbase: "3500"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -95,15 +89,11 @@ opengraphdescription: "15000 km/√•r -  fast rente -  vinterhjul -  frakt/klargj√
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Tilbud: https:--drive.google.com-file-d-1Z3kotqHpmOWFYmXEAShJJlKBDkdelxrz-view?usp=drive_link Utregnet rabatt: 34916"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslugad: "https://www.auto-data.net/no/volkswagen-transporter-t7-panel-van-e-transporter-70.9-kwh-286hp-4motion-l2h1-56713"
+consultant: "MT / Kristine"
 
 chosepage: "Leasing Firmabil"
 

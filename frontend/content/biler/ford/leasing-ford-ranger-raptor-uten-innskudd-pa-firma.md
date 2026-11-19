@@ -1,23 +1,23 @@
 ---
-title: "Ranger firmabil"
+title: "Raptor 3.0 DoubleCab"
 brand: "Ford"
 slug: "leasing-ford-ranger-raptor-uten-innskudd-pa-firma"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/4e2fb2792e79b8b137a021b0dfe6f507377adab7-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/4e2fb2792e79b8b137a021b0dfe6f507377adab7-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/683e983cfac8dd1348ca52b1_Ford%20Ranger%20RAPTOR%20front%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/4e2fb2792e79b8b137a021b0dfe6f507377adab7-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/f2ca641497b0db44929c508d85d75fd93ed311e1-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/92e2eb88a6bb0dc4ac254e52e284ebf1f4d1fc65-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Raptor 3 DoubleCab"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/4e2fb2792e79b8b137a021b0dfe6f507377adab7-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/f2ca641497b0db44929c508d85d75fd93ed311e1-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/92e2eb88a6bb0dc4ac254e52e284ebf1f4d1fc65-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Ford Ranger firmabil"
 
-alttext: "Leasing av Ford Ranger Raptor 3 V6 EcoBoost 4WD DoubleCab som firmabil uten innskudd"
+alttext: "Leasing av Ford Ranger Raptor 3.0 V6 EcoBoost 4WD DoubleCab som firmabil uten innskudd"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Bensin"
+fuel: "Fossilt"
 
 body: "Pickup"
 
@@ -36,10 +36,6 @@ performancehk: "292"
 performancewatt: "214"
 
 torque: "491"
-
-cotwoemission: "315"
-
-warranty: "5 år/10000 km"
 
 allowedtotalweight: "3130"
 
@@ -67,11 +63,7 @@ wheelbase: "2370"
 
 turningcircle: "13"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -85,15 +77,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "9 prosent  bil og utstyr (pdf bilen har mer utstyr!)"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5926"
+consultant: "Roger RS"
 
 chosepage: "Leasing Firmabil"
 

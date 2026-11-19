@@ -1,15 +1,15 @@
 ---
-title: "eSprinter"
+title: "320/37 KA 81 kWh"
 brand: "Mercedes"
 slug: "leasing-mercedes-esprinter-pris-uten-innskudd-kampanje"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/162fe067799541c15be5137769021accde14cfd7-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/162fe067799541c15be5137769021accde14cfd7-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/68b820e061d90160a70dfbc5_Mercedes%20eSprinter%20side%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/162fe067799541c15be5137769021accde14cfd7-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/1167016418779196f133a8024fcfdeb2b1bdaa28-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/e8e388c9f24de74abf9ab46330ab688a3cea1335-1000x500.jpg?fm=webp&q=80"
-modeldescription: "320/37 KA 81 kWh"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/162fe067799541c15be5137769021accde14cfd7-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1167016418779196f133a8024fcfdeb2b1bdaa28-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/e8e388c9f24de74abf9ab46330ab688a3cea1335-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Mercedes eSprinter varebil"
 
 alttext: "bilde av Mercedes eSprinter fra siden"
 
@@ -19,11 +19,11 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
@@ -33,15 +33,13 @@ doors: "4"
 
 seats: "3"
 
-performancehk: "116"
+performancehk: "136"
 
 performancewatt: "85"
 
 torque: "295"
 
-cotwoemission: "0"
-
-range: "150"
+range: "300"
 
 grossbattery: "55"
 
@@ -49,15 +47,7 @@ netbattery: "47"
 
 chargingdc: "80"
 
-maxhomechargeac: "7 kW"
-
-onephasehomechargeac: "7,2 kW"
-
-chargingspeed: "30 min"
-
-powerusage: "33,7 kWh/100 km"
-
-warranty: "5 år/10000 km"
+chargingspeed: "30"
 
 allowedtotalweight: "3500"
 
@@ -81,11 +71,7 @@ height: "2676"
 
 wheelbase: "3924"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 metatitle: "Mercedes eSprinter leasing uten innskudd"
 
@@ -97,15 +83,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Ronny Nordby: https:--app.hubspot.com-contacts-7797518-record-0-1-98600047930"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5793"
+consultant: "Ronny Nordby/BOS Lørenskog"
 
 chosepage: "Leasing Firmabil"
 

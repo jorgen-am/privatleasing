@@ -3,17 +3,38 @@ export default {
   title: 'Biler',
   type: 'document',
   fieldsets: [
+    { name: 'innhold', title: 'Hovedinnhold' },
     { name: 'leasing', title: 'Pris & Leasing' },
     { name: 'teknisk', title: 'Tekniske detaljer' },
     { name: 'status', title: 'Status & Kampanje' },
     { name: 'seo', title: 'SEO & Markedsføring' }
   ],
   fields: [
-    { name: 'title', title: 'Modellnavn', type: 'string' },
-    { name: 'slug', title: 'URL-streng', type: 'slug', options: { source: 'title' } },
-    { name: 'mainimage', title: 'Hovedbilde', type: 'image', options: { hotspot: true } },
-    { name: 'shopimage', title: 'Butikkbilde URL', type: 'url', fieldset: 'teknisk' },
-    { name: 'gallery', title: 'Bildegalleri', type: 'array', of: [{ type: 'image', options: { hotspot: true } }], options: { layout: 'grid' } },
+    // Innhold
+    { name: 'title', title: 'Modellnavn', type: 'string', fieldset: 'innhold' },
+    { name: 'slug', title: 'URL-streng', type: 'slug', fieldset: 'innhold', options: { source: 'title' } },
+    { name: 'mainimage', title: 'Hovedbilde', type: 'image', fieldset: 'innhold', options: { hotspot: true } },
+    { name: 'alttext', title: 'Alt-tekst for bilde', type: 'string', fieldset: 'innhold' },
+    { name: 'shopimage', title: 'Butikkbilde URL', type: 'url', fieldset: 'innhold' },
+    { name: 'gallery', title: 'Bildegalleri', type: 'array', fieldset: 'innhold', of: [{ type: 'image', fieldset: 'innhold', options: { hotspot: true } }], options: { layout: 'grid' } },
+    { name: 'equipment', title: 'Ekstrautstyr', type: 'array', fieldset: 'innhold', of: [{ type: 'block' }] },
+    { name: 'description', title: 'Beskrivelse', type: 'array', fieldset: 'innhold',of: [{ type: 'block' }] }, 
+
+    // Priser
+    { name: 'pricezero', title: 'Leasing 0,- innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price0 til pricezero (fremdeles tilgjengelig som price0 i JSON ved behov)
+    { name: 'pricesixty', title: 'Leasing 60k innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price60
+    { name: 'pricehundred', title: 'Leasing 100k innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price100
+    { name: 'priceadszero', title: 'Reklamepris (0,-)', type: 'number', fieldset: 'leasing' }, // Endret fra priceads0
+    { name: 'interest', title: 'Rente', type: 'string', fieldset: 'leasing' },
+    { name: 'quote', title: 'Quotenummer', type: 'string', fieldset: 'leasing' },
+    { name: 'quotefile', title: 'Quote fil', type: 'file', fieldset: 'leasing', options: { accept: '.pdf,.jpg,.jpeg,.doc,.docx,.png,.gif,.webp' }, fields: [ { name: 'description', type: 'string', title: 'Tilbudsfil' } ] }, // Endret fra attachment til quotefile
+    { name: 'shortterm', title: 'Korttidsleie', type: 'string', fieldset: 'leasing' }, // Releasing
+
+    // SEO
+    { name: 'metatitle', title: 'SEO Tittel', type: 'string', fieldset: 'seo' },
+    { name: 'metadescription', title: 'SEO Beskrivelse', type: 'text', fieldset: 'seo' },
+    { name: 'opengraphtitle', title: 'Open Graph Tittel', type: 'string', fieldset: 'seo' }, // Endret fra ogtitle
+    { name: 'opengraphdescription', title: 'Open Graph Beskrivelse', type: 'text', fieldset: 'seo' }, // Endret fra ogdescription
 
     // Spesifikasjoner (Synkronisert med CSV)
     { name: 'brand', title: 'Merke', type: 'string', fieldset: 'teknisk' },
@@ -48,19 +69,6 @@ export default {
     { name: 'chargingspeed', title: 'Ladehastighet tid', type: 'string', fieldset: 'teknisk' }, // Endret fra chargingSpeed
     { name: 'powerusage', title: 'Strømforbruk', type: 'string', fieldset: 'teknisk' }, // Endret fra powerUsage
     
-    // Priser
-    { name: 'pricezero', title: 'Leasing 0,- innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price0 til pricezero (fremdeles tilgjengelig som price0 i JSON ved behov)
-    { name: 'pricesixty', title: 'Leasing 60k innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price60
-    { name: 'pricehundred', title: 'Leasing 100k innskudd', type: 'number', fieldset: 'leasing' }, // Endret fra price100
-    { name: 'priceadszero', title: 'Reklamepris (0,-)', type: 'number', fieldset: 'leasing' }, // Endret fra priceads0
-    { name: 'interest', title: 'Rente', type: 'string', fieldset: 'leasing' },
-    { name: 'quote', title: 'Quotenummer', type: 'string', fieldset: 'leasing' },
-    { name: 'quotefile', title: 'Quote fil', type: 'file', options: { accept: '.pdf,.jpg,.jpeg,.doc,.docx,.png,.gif,.webp' }, fields: [ { name: 'description', type: 'string', title: 'Tilbudsfil' } ] }, // Endret fra attachment til quotefile
-
-    // Innhold
-    { name: 'equipment', title: 'Ekstrautstyr', type: 'array', of: [{ type: 'block' }] },
-    { name: 'description', title: 'Beskrivelse', type: 'array', of: [{ type: 'block' }] }, 
-
     // Vekter & Tilhenger
     { name: 'allowedtotalweight', title: 'Tillatt totalvekt (kg)', type: 'number', fieldset: 'teknisk' }, // Endret fra allowedTotalWeight
     { name: 'kerbweight', title: 'Egenvekt (kg)', type: 'number', fieldset: 'teknisk' }, // Endret fra kerbWeight
@@ -80,12 +88,6 @@ export default {
     { name: 'wheelbase', title: 'Akselavstand (mm)', type: 'number', fieldset: 'teknisk' },
     { name: 'turningcircle', title: 'Svingdiameter (m)', type: 'number', fieldset: 'teknisk' }, // Endret fra turningCircle
 
-    // SEO
-    { name: 'metatitle', title: 'SEO Tittel', type: 'string', fieldset: 'seo' },
-    { name: 'metadescription', title: 'SEO Beskrivelse', type: 'text', fieldset: 'seo' },
-    { name: 'opengraphtitle', title: 'Open Graph Tittel', type: 'string', fieldset: 'seo' }, // Endret fra ogtitle
-    { name: 'opengraphdescription', title: 'Open Graph Beskrivelse', type: 'text', fieldset: 'seo' }, // Endret fra ogdescription
-
     // Garantier
     { name: 'warranty', title: 'Nybilgaranti', type: 'string', fieldset: 'teknisk' },
     { name: 'batterywarranty', title: 'Batterigaranti', type: 'string', fieldset: 'teknisk' }, // Endret fra batteryWarranty
@@ -96,6 +98,15 @@ export default {
     { name: 'frontpage', title: 'Vis på forside', type: 'boolean', fieldset: 'status' },
     { name: 'campaign', title: 'Er kampanje', type: 'boolean', fieldset: 'status' },
     { name: 'fastdelivery', title: 'Rask levering', type: 'boolean', fieldset: 'status' },
+
+    // sideegenskaper
+    { name: 'chosepage', title: 'Valgt side (Chosepage)', type: 'string' },
+    { name: 'consultant', title: 'Konsulent / Forhandler', type: 'string', },
+    { name: 'pricecomment', title: 'Priskommentar / Rabatt', type: 'text', rows: 2},
+    { name: 'salesman', title: 'Selger', type: 'string' },
+    { name: 'shop', title: 'Butikk / Merke-shop', type: 'string' },
+    { name: 'sourceslug', title: 'Source Slug', type: 'string' }, // for henting av iformasjon #1
+    { name: 'sourceslugad', title: 'Source Slug Ad', type: 'string'},  // for henting av iformasjon #2
   ],
 
   preview: {

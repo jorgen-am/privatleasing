@@ -1,15 +1,15 @@
 ---
-title: "Citan"
+title: "110 A2 SV"
 brand: "Mercedes"
 slug: "leasing-mercedes-citan-110-uten-innskudd-varebil-firmabil-kampanje"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/8ac3333d1f69fbcfbd5ddcbd81c6879aa101b499-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/8ac3333d1f69fbcfbd5ddcbd81c6879aa101b499-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/684936e121d3f9123d9cc68f_Mercedes-Benz%20Citan%20110%20A2%20SV%20side%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/7f01fbcf9b6e261dac539c6d01d9bbced00fb1eb-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/22f5ef7d87b8d2d80785ad83c79032673f2fa7cf-850x450.jpg?fm=webp&q=80"
-modeldescription: "110 A2 SV"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7f01fbcf9b6e261dac539c6d01d9bbced00fb1eb-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/22f5ef7d87b8d2d80785ad83c79032673f2fa7cf-850x450.jpg?fm=webp&q=80"
+modeldescription: "Mercedes Citan varebil"
 
 alttext: "Mercedes Citan 110 uten innskudd Varebil Firmabil Kampanje"
 
@@ -17,11 +17,11 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
@@ -30,8 +30,6 @@ numberofgears: "7"
 doors: "5"
 
 seats: "2"
-
-performancehk: "116"
 
 performancewatt: "85"
 
@@ -59,11 +57,7 @@ wheelbase: "2716"
 
 turningcircle: "11.2"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 metatitle: "Mercedes Citan 110 leasing uten innskudd Varebil Firmabil"
 
@@ -77,13 +71,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=1506"
+consultant: "Hogne Erik Arnesen"
 
 chosepage: "Leasing Firmabil"
 

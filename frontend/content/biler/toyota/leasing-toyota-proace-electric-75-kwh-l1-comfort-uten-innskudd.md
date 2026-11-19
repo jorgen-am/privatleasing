@@ -1,15 +1,15 @@
 ---
-title: "Proace EV"
+title: "75 kWh L1 Comfort"
 brand: "Toyota"
 slug: "leasing-toyota-proace-electric-75-kwh-l1-comfort-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/5cea8a83aa3043d5aaa7acd17992c696092d040f-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/5cea8a83aa3043d5aaa7acd17992c696092d040f-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/692ecf102cf28458c40e8fb2_%2320226%20Proace%20Electric%20L1%20(den%20st%C3%B8rre%20bilen)%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/5cea8a83aa3043d5aaa7acd17992c696092d040f-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/214fa4316dbf840d4d278f64e54b46c2f8916096-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/7dbf3a760bff0320649b4db9360bca36b60b94f8-1000x500.jpg?fm=webp&q=80"
-modeldescription: "75 kWh L1 Comfort"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/5cea8a83aa3043d5aaa7acd17992c696092d040f-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/214fa4316dbf840d4d278f64e54b46c2f8916096-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7dbf3a760bff0320649b4db9360bca36b60b94f8-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Toyota Proace varebil"
 
 alttext: "Toyota Proace Electric L1 front"
 
@@ -19,21 +19,19 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L1"
 
 numberofgears: "1"
 
 doors: "5"
 
-seats: "3"
+seats: "2"
 
 performancehk: "136"
 
@@ -43,29 +41,13 @@ torque: "260"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "216"
+range: "347"
 
 grossbattery: "75"
 
 netbattery: "68"
 
 chargingdc: "100"
-
-maxhomechargeac: "11 kW"
-
-chargingspeed: "38 min"
-
-powerusage: "27,9 kWh/100 km"
-
-warranty: "5 책r/20000 km"
-
-batterywarranty: "8 책r/16000 km"
-
-warrantypaint: "3 책r"
-
-warrantyrust: "6 책r"
 
 allowedtotalweight: "2875"
 
@@ -95,11 +77,11 @@ wheelbase: "3275"
 
 turningcircle: "12.4"
 
-yearmodel: "2025"
+color: "Icy White"
 
-color: "white"
+interior: "Sort Stoff"
 
-interior: "black"
+towbar: true
 
 frontpage: true
 
@@ -117,17 +99,9 @@ opengraphdescription: "15000 km/책r -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "6950 frakt Hengerfeste fast 17869 ink mva"
 
 availability: "FALSE"
-
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/64789/toyota-proace-ev-l1-21mod"
-
-sourceslugad: "https://www.auto-data.net/no/toyota-proace-ii-generation-4357"
 
 chosepage: "Leasing Firmabil"
 

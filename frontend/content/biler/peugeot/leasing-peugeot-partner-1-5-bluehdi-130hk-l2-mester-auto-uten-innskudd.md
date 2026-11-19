@@ -1,17 +1,17 @@
 ---
-title: "Partner"
+title: "1.5 BlueHDi 130 hk L2 Mester Automat"
 brand: "Peugeot"
 slug: "leasing-peugeot-partner-1-5-bluehdi-130hk-l2-mester-auto-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/5cea2d65a6ebff339d49f166901fe7be699ccc0b-300x180.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6932d8c022732c1ee6bdd99c_Peugeot-Partner-L2-Mester-venstre.jpeg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/5cea2d65a6ebff339d49f166901fe7be699ccc0b-300x180.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6ab10118be188599dc820abb_Peugeot-partner-l2-mester-130hk-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/5cea2d65a6ebff339d49f166901fe7be699ccc0b-300x180.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/831ce6be2f626af402d83c28ccf3da41b3beeb82-1000x500.png?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/004be02987b3eec6860f32ff011c695272f1e0fd-1000x500.png?fm=webp&q=80"
-modeldescription: "1.5 BlueHDi 130hk L2 Mester Auto"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/5cea2d65a6ebff339d49f166901fe7be699ccc0b-300x180.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/831ce6be2f626af402d83c28ccf3da41b3beeb82-1000x500.png?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/004be02987b3eec6860f32ff011c695272f1e0fd-1000x500.png?fm=webp&q=80"
+modeldescription: "Peugeot Partner varebil"
 
-alttext: "Peugeot Partner L2 Mester 130hk sett fra siden"
+alttext: "Peugeot Partner L2 Mester 130hk venstre foran"
 
 pricezero: "4490"
 
@@ -19,15 +19,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L2"
 
 numberofgears: "8"
 
@@ -40,8 +38,6 @@ performancehk: "130"
 performancewatt: "95"
 
 torque: "300"
-
-cotwoemission: "113"
 
 allowedtotalweight: "2370"
 
@@ -65,11 +61,13 @@ height: "1860"
 
 wheelbase: "2975"
 
-yearmodel: "2025"
+yearmodel: "2026"
 
-color: "white"
+color: "Hvit"
 
-interior: "black"
+interior: "Sort/grå"
+
+towbar: true
 
 frontpage: true
 
@@ -87,17 +85,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 10900 - 23 prosent  på 2x4 -- https:--drive.google.com-drive-u-2-folders-1HFNyvhlhnrcF7C6KSS1fTJwVDEJvtd3n (BOS)"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=4962"
-
-sourceslugad: "https://www.auto-data.net/no/peugeot-partner-iii-van-long-1.5-bluehdi-131hp-s-s-automatic-34587"
+consultant: "BOS/Mobile"
 
 chosepage: "Leasing Firmabil"
 

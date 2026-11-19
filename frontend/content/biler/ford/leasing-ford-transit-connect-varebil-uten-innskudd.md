@@ -1,17 +1,17 @@
 ---
-title: "Transit Connect"
+title: "2.0 ECOBLUE L2 TREND"
 brand: "Ford"
 slug: "leasing-ford-transit-connect-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/2e7fbdbfa43615c411753ea156b4433fcc2b0a1c-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/2e7fbdbfa43615c411753ea156b4433fcc2b0a1c-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67e287f3f5d44083e8aa4770_Ford%20Transit%20Connect%20l2%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/2e7fbdbfa43615c411753ea156b4433fcc2b0a1c-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/e0432b40ecd9e19d07612e9a17cdaf7b17adeba9-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/a2a939137df9c59a551ba733bdf894b6ee7b6f99-850x450.jpg?fm=webp&q=80"
-modeldescription: "2 ECOBLUE L2 TREND"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2e7fbdbfa43615c411753ea156b4433fcc2b0a1c-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/e0432b40ecd9e19d07612e9a17cdaf7b17adeba9-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a2a939137df9c59a551ba733bdf894b6ee7b6f99-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Connect varebil"
 
-alttext: "Front 2025 Ford Transit Connect 2 ECO"
+alttext: "Front 2025 Ford Transit Connect 2.0 ECO"
 
 pricezero: "5330"
 
@@ -19,15 +19,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
 drive: "AWD"
 
 gear: "Manuell"
-
-lversion: "L2"
 
 numberofgears: "6"
 
@@ -40,10 +38,6 @@ performancehk: "122"
 performancewatt: "89"
 
 torque: "320"
-
-cotwoemission: "164"
-
-warranty: "5 år/20000 km"
 
 allowedtotalweight: "2400"
 
@@ -71,9 +65,7 @@ wheelbase: "2970"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -91,13 +83,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/36241/ford-transit-connect-2-0-ecoblue-awd-l2-25-mod"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

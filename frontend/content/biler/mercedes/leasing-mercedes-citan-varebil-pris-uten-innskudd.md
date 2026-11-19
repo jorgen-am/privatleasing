@@ -1,15 +1,15 @@
 ---
-title: "Citan"
+title: "5-dørs 112 CDI LWB"
 brand: "Mercedes"
 slug: "leasing-mercedes-citan-varebil-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/63fc618f5da24f0def0d504a_Mercedes%20Citan%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/7f01fbcf9b6e261dac539c6d01d9bbced00fb1eb-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/22f5ef7d87b8d2d80785ad83c79032673f2fa7cf-850x450.jpg?fm=webp&q=80"
-modeldescription: "5-dørs 112 CDI LWB"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c8d6957ee22e49fc3d7df33f375de209e9e3642d-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7f01fbcf9b6e261dac539c6d01d9bbced00fb1eb-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/22f5ef7d87b8d2d80785ad83c79032673f2fa7cf-850x450.jpg?fm=webp&q=80"
+modeldescription: "Mercedes Citan varebil"
 
 alttext: "‍‍Lease Mercedes Citan uten innskudd"
 
@@ -19,11 +19,11 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
@@ -63,9 +63,7 @@ turningcircle: "11.2"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -83,13 +81,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/modell.asp?Id=1506"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

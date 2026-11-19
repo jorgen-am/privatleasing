@@ -1,17 +1,17 @@
 ---
-title: "Proace EV"
+title: "22 l L1 Comfort Auto"
 brand: "Toyota"
 slug: "leasing-toyota-proace-l1-comfort-diesel-varebil-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/01abd96c84ab4dc9a153637de1f01395213c85c2-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/01abd96c84ab4dc9a153637de1f01395213c85c2-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/69678ed0787831410aab2b97_Toyota%20Proace%20varebil%20L1%20Comfort%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/01abd96c84ab4dc9a153637de1f01395213c85c2-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/998daee5d6ebe796019f3845b10c0e85cff4708f-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/2c51f442a095433a0d417f8339e2c597d1f8f148-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/b2c1905b82d43c7d15feb2117f5f55365887e154-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/d144c756f9e124152699c190e9e8755197a9be81-1000x500.jpg?fm=webp&q=80"
-modeldescription: "2 - 2 l L1 Comfort Auto"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/01abd96c84ab4dc9a153637de1f01395213c85c2-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/998daee5d6ebe796019f3845b10c0e85cff4708f-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2c51f442a095433a0d417f8339e2c597d1f8f148-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/b2c1905b82d43c7d15feb2117f5f55365887e154-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/d144c756f9e124152699c190e9e8755197a9be81-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Toyota Proace varebil"
 
 alttext: "Toyota Proace L1 Comfort diesel varebil fra siden"
 
@@ -21,31 +21,27 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L1"
 
 numberofgears: "1"
 
 doors: "5"
 
-seats: "3"
+seats: "2"
 
-performancehk: "136"
+performancehk: "150"
 
 performancewatt: "100"
 
 torque: "260"
 
 numberofengines: "1"
-
-cotwoemission: "0"
 
 range: "216"
 
@@ -54,20 +50,6 @@ grossbattery: "75"
 netbattery: "68"
 
 chargingdc: "100"
-
-maxhomechargeac: "11 kW"
-
-chargingspeed: "38 min"
-
-powerusage: "27,9 kWh/100 km"
-
-warranty: "5 책r/20000 km"
-
-batterywarranty: "8 책r/16000 km"
-
-warrantypaint: "3 책r"
-
-warrantyrust: "6 책r"
 
 allowedtotalweight: "2875"
 
@@ -97,11 +79,11 @@ wheelbase: "3275"
 
 turningcircle: "12.4"
 
-yearmodel: "2025"
+color: "Icy White"
 
-color: "white"
+interior: "Sort stoff"
 
-interior: "black"
+towbar: true
 
 frontpage: true
 
@@ -119,17 +101,9 @@ opengraphdescription: "15000 km/책r -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 6950"
 
 availability: "FALSE"
-
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/64789/toyota-proace-ev-l1-21mod"
-
-sourceslugad: "https://www.auto-data.net/no/toyota-proace-ii-generation-4357"
 
 chosepage: "Leasing Firmabil"
 

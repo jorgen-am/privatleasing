@@ -1,16 +1,16 @@
 ---
-title: "D-Max"
+title: "Premium Black Edition Extended Cab"
 brand: "Isuzu"
 slug: "leasing-isuzu-d-max-black-edition-extended-cab-uten-innskudd-kampanje-firmabil"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/3c75d26236c28e4be7b38b87faff063be96f6d88-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/3c75d26236c28e4be7b38b87faff063be96f6d88-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/682c25f1e29b36f136c11d33_Isuzu%20D-MAX%202%20d%C3%B8rs%20Extended%20front.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/3c75d26236c28e4be7b38b87faff063be96f6d88-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/5d116b0bfc148efbd48837da902e24db6bd46e83-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/6e889fb11a763393c0adc331e20315c0dedb38dd-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/d4ca1bceb811ad319cb326906c6a8cea7d659aa4-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Extended Cab Premium Black Edition"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3c75d26236c28e4be7b38b87faff063be96f6d88-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/5d116b0bfc148efbd48837da902e24db6bd46e83-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/6e889fb11a763393c0adc331e20315c0dedb38dd-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/d4ca1bceb811ad319cb326906c6a8cea7d659aa4-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Isuzu D-Max varebil"
 
 alttext: "Isuzu D-Max Black Edition interiør Kampanje"
 
@@ -20,29 +20,25 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
 body: "Pickup"
 
 drive: "AWD"
 
-gear: "Manuell"
+gear: "Automat"
 
 numberofgears: "6"
 
-doors: "2"
+doors: "4"
 
 seats: "2"
 
-performancehk: "163"
+performancehk: "164"
 
 performancewatt: "119"
 
 torque: "360"
-
-cotwoemission: "183"
-
-warranty: "5 år/10000 km"
 
 allowedtotalweight: "3050"
 
@@ -70,11 +66,11 @@ wheelbase: "3095"
 
 turningcircle: "12.2"
 
-yearmodel: "2025"
+color: "Metallic"
 
-color: "white"
+interior: "Svart"
 
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -88,17 +84,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Tilbud nr. 70691 fra Paal Berg-Auto"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/6895/isuzu-d-max-1-9-diesel-163-hk-singel-cab-reg-som-varebil"
-
-sourceslugad: "https://www.auto-data.net/no/isuzu-d-max-iii-generation-6102"
+consultant: "Mattias"
 
 chosepage: "Leasing Firmabil"
 

@@ -1,16 +1,16 @@
 ---
-title: "Vito"
+title: "119 A2 PRO 4x4 automat"
 brand: "Mercedes"
 slug: "leasing-mercedes-vito-varebil-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/1321b726b68d9e63e26a8e110536cdcf7081bb0a-1000x500.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67d15b11e97d3a1e52052747_MB%20Vito%20hvit%20side.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/1321b726b68d9e63e26a8e110536cdcf7081bb0a-1000x500.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6a51fcf4a5ad666976b41385_Mercedes-Benz%20Vito%20119%20A2%20PRO%204x4_front_side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/1321b726b68d9e63e26a8e110536cdcf7081bb0a-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/f085b3e391f2d175212f0902ee691d9ef624fdf8-1000x500.jpg?fm=webp&q=80"
-modeldescription: "PRO 119 CDI A2"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1321b726b68d9e63e26a8e110536cdcf7081bb0a-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/f085b3e391f2d175212f0902ee691d9ef624fdf8-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Mercedes Vito varebil"
 
-alttext: "Mercedes-Benz Vito 119 CDI PRO A2 frontbilde"
+alttext: "Mercedes-Benz Vito 119 A2 PRO 4x4 automat sett forfra fra venstre i Hightech sølv metallic med MULTIBEAM LED hovedlykter og 17' lettmetallfelger."
 
 pricezero: "10545"
 
@@ -18,9 +18,9 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
 drive: "AWD"
 
@@ -30,13 +30,11 @@ numberofgears: "9"
 
 doors: "4"
 
-seats: "2"
+seats: "3"
 
 performancehk: "190"
 
 torque: "440"
-
-cotwoemission: "193"
 
 allowedtotalweight: "2800"
 
@@ -64,11 +62,9 @@ height: "1910"
 
 wheelbase: "3200"
 
-yearmodel: "2025"
+color: "Metallic: Hightech sølv"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 metatitle: "Mercedes Vito 119 CDI PRO A2 uten krtil innskudd"
 
@@ -80,15 +76,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "BOS ref qoute fra Kenneth"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslugad: "https://www.auto-data.net/no/mercedes-benz-vito-w447-facelift-2023-panel-van-long-119-cdi-190hp-4matic-9g-tronic-55928"
+consultant: "BOS"
 
 chosepage: "Leasing Firmabil"
 

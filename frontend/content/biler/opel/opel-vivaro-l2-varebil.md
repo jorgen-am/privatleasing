@@ -1,31 +1,33 @@
 ---
-title: "Vivaro"
+title: "2.0 D L2 Elite"
 brand: "Opel"
 slug: "opel-vivaro-l2-varebil"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/d915babbb347b4c4f4e14a2974c9ed57b132b94f-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/d915babbb347b4c4f4e14a2974c9ed57b132b94f-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6458f665041b9533a9c71a89_Opel%20Vivaro%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/d915babbb347b4c4f4e14a2974c9ed57b132b94f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/d236cd8502055770600f7e1cdf8f002712d6d23d-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/1df3ecfe646db589c9bb2e1101ba57921581f891-850x450.jpg?fm=webp&q=80"
-modeldescription: "2 D L2 Elite"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/d915babbb347b4c4f4e14a2974c9ed57b132b94f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/d236cd8502055770600f7e1cdf8f002712d6d23d-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1df3ecfe646db589c9bb2e1101ba57921581f891-850x450.jpg?fm=webp&q=80"
+modeldescription: "Opel Vivaro varebil"
 
-alttext: "Leasing av Opel Vivaro 2 D L2 Elite varebil uten innskudd"
+alttext: "Leasing av Opel Vivaro 2.0 D L2 Elite varebil uten innskudd"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
-gear: "Automat"
+gear: "Manuell"
 
-lversion: "L2"
+doors: "4"
+
+seats: "3"
 
 performancehk: "145"
 
@@ -34,12 +36,6 @@ torque: "340"
 trailerwbreak: "2500"
 
 length: "4959"
-
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
 
 metatitle: "Opel Vivaro varebil leasing uten innskudd"
 
@@ -53,11 +49,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

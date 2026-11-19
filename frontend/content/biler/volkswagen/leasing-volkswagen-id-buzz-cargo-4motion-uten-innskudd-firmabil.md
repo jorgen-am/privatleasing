@@ -3,10 +3,10 @@ title: "ID. Buzz Cargo"
 brand: "Volkswagen"
 slug: "leasing-volkswagen-id-buzz-cargo-4motion-uten-innskudd-firmabil"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/ecc3dbe18699ddde3b586333fe970529972fa0e7-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/ecc3dbe18699ddde3b586333fe970529972fa0e7-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/67c6be900c7464d7f03fc49d_2025%20VW%20ID.%20Buzz%20Cargo%20Pluss%204MOTION%2079%20kWh%20340%20hk%20Auto%204-d%C3%B8rs%20Van%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/06a76013dd0a9e8be98f803355c8d9dd58d39881-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/06a76013dd0a9e8be98f803355c8d9dd58d39881-1000x500.jpg?fm=webp&q=80"
 modeldescription: "Cargo 79 kWh 340hk 4MOTION"
 
 alttext: "Volkswagen ID. Buzz Cargo 4MOTION bilde fra fronten"

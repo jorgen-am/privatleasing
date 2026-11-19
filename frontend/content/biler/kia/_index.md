@@ -1,6 +1,6 @@
 ---
-title: "Leasing av Kia varebil"
-metadescription: "Finn gode tilbud på leasing av Kia varebil hos Automedia."
+title: "Leasing av Kia privatbil"
+metadescription: "Finn gode tilbud på leasing av Kia privatbil hos Automedia."
 layout: "list"
 url: "/biler/kia/"
 menu:

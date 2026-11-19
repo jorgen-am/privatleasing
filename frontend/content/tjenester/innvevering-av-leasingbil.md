@@ -1,10 +1,10 @@
 ---
 title: "Innlevering av leasingbil"
-image: "https://cdn.sanity.io/images/1lzskaub/production/2bed7a7f366ea14da6b80f67927e3e0054e48e68-100x100.png"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/2bed7a7f366ea14da6b80f67927e3e0054e48e68-100x100.png"
 alt: "Dame i bilsetet med bilnøkler i hånden"
 email: "jorgen@automedia.as"
 salesman: "Jørgen Hanisch"
-salesmanimage: "https://cdn.sanity.io/images/1lzskaub/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
+salesmanimage: "https://cdn.sanity.io/images/zm2rz2y0/production/39f6249a224cb9041edf4df622eb15079c7a727a-518x518.jpg"
 salesmanphone: "41420541"
 salesmanlinkedin: "https://www.linkedin.com/in/jorgenhanisch/"
 salesmancampaign: "Releasing / Web / Marked"

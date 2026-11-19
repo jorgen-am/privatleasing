@@ -1,10 +1,10 @@
 ---
 title: "Dekor/foljering varebil"
-image: "https://cdn.sanity.io/images/1lzskaub/production/820de7a667057f3fd2a28033521b730917017c3f-65x65.png"
+image: "https://cdn.sanity.io/images/zm2rz2y0/production/820de7a667057f3fd2a28033521b730917017c3f-65x65.png"
 alt: "Lease firmabil av Automedia AS, og hent den fiks ferdig med deres reklame montert - vi baker dekorkostnaden inn i månedsleien"
 email: "kenneth@automedia.as"
 salesman: "Kenneth Johnsrød"
-salesmanimage: "https://cdn.sanity.io/images/1lzskaub/production/5997bc0abf18796668e420753d58775e745447ef-563x563.jpg"
+salesmanimage: "https://cdn.sanity.io/images/zm2rz2y0/production/5997bc0abf18796668e420753d58775e745447ef-563x563.jpg"
 salesmanphone: "93641234"
 salesmanlinkedin: "https://www.linkedin.com/in/kenneth-johnsr%C3%B8d-367b687b/"
 salesmancampaign: "Regionsjef bilsalg/leasing"

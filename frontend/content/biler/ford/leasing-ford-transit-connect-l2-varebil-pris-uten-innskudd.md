@@ -1,15 +1,15 @@
 ---
-title: "Transit Connect"
+title: "TDCI L2 Trend"
 brand: "Ford"
 slug: "leasing-ford-transit-connect-l2-varebil-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/fe235e99f39e4f371e84ced6ad90abc336314527-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/fe235e99f39e4f371e84ced6ad90abc336314527-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/63fc57f8a48b00a7c73f9b15_Ford%20Transit%20Connect%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/fe235e99f39e4f371e84ced6ad90abc336314527-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/975eb6fe1b8f984ef3de2e7b82ed5c9761e64467-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3d224fd93c3551caafca132ff5a133d3eca0ee68-850x450.jpg?fm=webp&q=80"
-modeldescription: "TDCI L2 Trend"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/fe235e99f39e4f371e84ced6ad90abc336314527-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/975eb6fe1b8f984ef3de2e7b82ed5c9761e64467-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3d224fd93c3551caafca132ff5a133d3eca0ee68-850x450.jpg?fm=webp&q=80"
+modeldescription: "Ford Transit Connect varebil"
 
 alttext: "Lease Ford Transit Connect uten forskuddsleie"
 
@@ -19,15 +19,13 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Manuell"
-
-lversion: "L2"
 
 numberofgears: "6"
 
@@ -40,10 +38,6 @@ performancehk: "100"
 performancewatt: "73"
 
 torque: "240"
-
-cotwoemission: "153"
-
-warranty: "5 år/20000 km"
 
 allowedtotalweight: "2290"
 
@@ -71,9 +65,7 @@ wheelbase: "3062"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -91,13 +83,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/5552/ford-transit-connect-1-5l-tdci-ecoblue-100hk-l2-trend"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

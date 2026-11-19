@@ -1,15 +1,15 @@
 ---
-title: "e-Deliver 3"
+title: "525 kwh 6.3 m3 LWB"
 brand: "Maxus"
 slug: "leasing-varebil-elektrisk-maxus-e-deliver-3-lwb"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/c08d20d8328e763227bcfca4df5bfffe0c31f6d2-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/c08d20d8328e763227bcfca4df5bfffe0c31f6d2-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6437b0599861123f670ddf62_Maxus%20E-Deliver%203%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/c08d20d8328e763227bcfca4df5bfffe0c31f6d2-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/395a5f675475e273cd99d2b670add9c5495b7690-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/f2f5af264cdefcef9cb15958788cb1eae1c9bd9c-850x450.jpg?fm=webp&q=80"
-modeldescription: "52 - 5 kwh 6.3 m3 LWB"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/c08d20d8328e763227bcfca4df5bfffe0c31f6d2-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/395a5f675475e273cd99d2b670add9c5495b7690-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/f2f5af264cdefcef9cb15958788cb1eae1c9bd9c-850x450.jpg?fm=webp&q=80"
+modeldescription: "Maxus E-Deliver 3 varebil"
 
 alttext: "Leasing av Maxus E-Deliver 3 LWB som firmabil uten innskudd"
 
@@ -17,21 +17,21 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
 numberofgears: "1"
 
-doors: "5"
+doors: "4"
 
 seats: "2"
 
-performancehk: "120"
+performancehk: "122"
 
 performancewatt: "88"
 
@@ -39,9 +39,7 @@ torque: "255"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "238"
+range: "342"
 
 grossbattery: "52"
 
@@ -49,13 +47,7 @@ netbattery: "50"
 
 chargingdc: "60"
 
-maxhomechargeac: "7,2"
-
-chargingspeed: "45 min"
-
-powerusage: "22,4 kWh/100 km"
-
-warranty: "5 år/10000 km"
+chargingspeed: "45"
 
 allowedtotalweight: "2525"
 
@@ -83,10 +75,6 @@ wheelbase: "2910"
 
 yearmodel: "2025"
 
-color: "white"
-
-interior: "black"
-
 metatitle: "Maxus E-Deliver 3 elektrisk varebil leasing uten innskudd"
 
 metadescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargjøring -  vrakpant. Vi tilbyr forsikring -  bom -  lade- -  drivstoffkort og service på EN faktura"
@@ -99,13 +87,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=5403"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

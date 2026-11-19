@@ -1,31 +1,29 @@
 ---
-title: "Combo"
+title: "1.5 D L1 Elite"
 brand: "Opel"
 slug: "leasing-opel-combo-varebil-pris-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/da05ba08793ec5ff71337ba727dac00cd67d9bdd-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/da05ba08793ec5ff71337ba727dac00cd67d9bdd-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/646dff392994fa65e6dd1065_Opel%20Combo%20silver%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/da05ba08793ec5ff71337ba727dac00cd67d9bdd-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/63eeae8f58628e4c750ad60fae0bc867219b6b9a-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3164ef9d6979e29b8b1a38a0640625d9d9da95f6-850x450.jpg?fm=webp&q=80"
-modeldescription: "1.5 D L1 Elite"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/da05ba08793ec5ff71337ba727dac00cd67d9bdd-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/63eeae8f58628e4c750ad60fae0bc867219b6b9a-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3164ef9d6979e29b8b1a38a0640625d9d9da95f6-850x450.jpg?fm=webp&q=80"
+modeldescription: "Opel Combo varebil"
 
-alttext: "Leasing av Opel Combo på firma -  uten krav til innskudd"
+alttext: "Leasing av Opel Combo på firma uten krav til innskudd"
 
 interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Manuell"
-
-lversion: "L1"
 
 numberofgears: "5"
 
@@ -33,17 +31,11 @@ doors: "4"
 
 seats: "2"
 
-performancehk: "100"
+performancehk: "102"
 
 performancewatt: "73"
 
 torque: "250"
-
-cotwoemission: "146"
-
-warranty: "5 år/20000 km"
-
-warrantyrust: "8 år"
 
 allowedtotalweight: "2040"
 
@@ -69,11 +61,11 @@ height: "1796"
 
 wheelbase: "2785"
 
-yearmodel: "2025"
+yearmodel: "2026"
 
-color: "white"
+color: "Hvit Kaolin"
 
-interior: "black"
+interior: "Sort/Grå"
 
 metatitle: "Opel Combo varebil leasing uten innskudd"
 
@@ -87,13 +79,9 @@ shortterm: "FALSE"
 
 pricecomment: "Abc"
 
-salesman: "ingen"
-
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=4912"
+consultant: "ingen"
 
 chosepage: "Leasing Firmabil"
 

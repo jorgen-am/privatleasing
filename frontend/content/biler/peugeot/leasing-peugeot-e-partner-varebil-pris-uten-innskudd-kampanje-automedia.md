@@ -1,17 +1,17 @@
 ---
-title: "e-Partner"
+title: "Mester e-Partner L1 136 hk 50 KWh"
 brand: "Peugeot"
 slug: "leasing-peugeot-e-partner-varebil-pris-uten-innskudd-kampanje-automedia"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/4b9e177da7b524a4f17b234c89b14816a2247ae0-1000x500.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/66b09be42f301a3d83f5cb88_Automedia_leasing_Peugeot%20e-Partner.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/4b9e177da7b524a4f17b234c89b14816a2247ae0-1000x500.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6ab1265f587cf576b4154ae1_Peugeot-partner-l1-mester-100hk-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/4b9e177da7b524a4f17b234c89b14816a2247ae0-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/1ef42a63606b8fd761a4dd19bf5d481161a31907-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/1098408c3f5df4d6a93eb3d7b974b7002d7234a3-1000x500.jpg?fm=webp&q=80"
-modeldescription: "BEV 50 kWh L2 Mester"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/4b9e177da7b524a4f17b234c89b14816a2247ae0-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1ef42a63606b8fd761a4dd19bf5d481161a31907-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/1098408c3f5df4d6a93eb3d7b974b7002d7234a3-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Peugeot e-Partner varebil"
 
-alttext: "Lease Peugeot e-Partner varebil uten forskudd"
+alttext: "Peugeot e-Partner Mester e-Partner L1 136 hk 50 KWh foran venstre"
 
 pricezero: "4990"
 
@@ -19,21 +19,19 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Skapbil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
-lversion: "L2"
-
 numberofgears: "1"
 
-doors: "5"
+doors: "3"
 
-seats: "2"
+seats: "3"
 
 performancehk: "136"
 
@@ -43,9 +41,7 @@ torque: "260"
 
 numberofengines: "1"
 
-cotwoemission: "0"
-
-range: "275"
+range: "343"
 
 grossbattery: "50"
 
@@ -53,17 +49,7 @@ netbattery: "45"
 
 chargingdc: "100"
 
-maxhomechargeac: "7 kW"
-
-onephasehomechargeac: "7,4 kW"
-
-chargingspeed: "30 min"
-
-powerusage: "19,2 kWh/100 km"
-
-warranty: "5 år/20000 km"
-
-batterywarranty: "8 år/16000 km"
+chargingspeed: "30"
 
 allowedtotalweight: "2400"
 
@@ -87,11 +73,13 @@ widthwmirrors: "2107"
 
 wheelbase: "2975"
 
-yearmodel: "2025"
+yearmodel: "2026"
 
-color: "white"
+color: "Hvit"
 
-interior: "black"
+interior: "Sort"
+
+towbar: true
 
 campaign: true
 
@@ -107,17 +95,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 10900 21 prosent  rabatt https:--docs.google.com-document-d-16qcPp5lfHaKqhYbztmnu-IWCmeNw1ITN-edit"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=4949"
-
-sourceslugad: "https://www.auto-data.net/no/peugeot-partner-iii-k9-facelift-2024-generation-8501"
+consultant: "Arne Hammer / BOS Lørenskog"
 
 chosepage: "Leasing Firmabil"
 

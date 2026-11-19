@@ -1,16 +1,16 @@
 ---
-title: "D-Max"
+title: "Double Cab Premium Black Edition"
 brand: "Isuzu"
 slug: "isuzu-d-max-varebil"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6989ca5e28e70480ce6604d0_Isuzu%20D-Max%20Black%20Edition%20Double%20Cab.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3b74645bb5196f7dd1eed15571c90da33215145c-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/74dc2bf159fc819407c4488822d4f3aecb7414a9-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/26aef75771958db964b6d9ae198b32023243caef-850x450.jpg?fm=webp&q=80"
-modeldescription: "Double Cab Premium Black Edition"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a7f9fc117a837228a38879619facd5ace74e2b29-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3b74645bb5196f7dd1eed15571c90da33215145c-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/74dc2bf159fc819407c4488822d4f3aecb7414a9-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/26aef75771958db964b6d9ae198b32023243caef-850x450.jpg?fm=webp&q=80"
+modeldescription: "Isuzu D-Max varebil"
 
 alttext: "Leasing av Isuzu D-Max Double Cab Premium Black Edition uten innskudd"
 
@@ -20,7 +20,7 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
 body: "Pickup"
 
@@ -34,15 +34,11 @@ doors: "4"
 
 seats: "2"
 
-performancehk: "163"
+performancehk: "164"
 
 performancewatt: "119"
 
 torque: "360"
-
-cotwoemission: "235"
-
-warranty: "5 år/10000 km"
 
 allowedtotalweight: "3100"
 
@@ -70,11 +66,7 @@ wheelbase: "3125"
 
 turningcircle: "12.2"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 frontpage: true
 
@@ -92,17 +84,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Gammelt?:Frakt og levering: 12 375 NOK - Rabatt: 45 k"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/6158/isuzu-d-max-space-cab-1-9d-vare-2025-mod"
-
-sourceslugad: "https://www.auto-data.net/no/isuzu-d-max-iii-generation-6102"
+consultant: "Paal/Berg-Auto"
 
 chosepage: "Leasing Firmabil"
 

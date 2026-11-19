@@ -1,18 +1,18 @@
 ---
-title: "Partner"
+title: "1.5 BlueHDi 100 hk L1 Mester"
 brand: "Peugeot"
 slug: "varebil-peugeot-partner-leasing-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/7906b124e5c12220aca4b8ddd65858585d076acc-850x450.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/7906b124e5c12220aca4b8ddd65858585d076acc-850x450.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/698c53c0aeeefcde41b6126b_Peugeot-Partner-L1-Mester-side-front-vit.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/7906b124e5c12220aca4b8ddd65858585d076acc-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/9bb69e209a4c06d0066cf2e5f27d15a3a5fc3559-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/3de857b6e2945d33cc61337bb8ed97a6e8ee778f-850x450.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/0081ac53f830581aebb3710c571ccf02939b4ac2-850x450.jpg?fm=webp&q=80"
-modeldescription: "1.5 BlueHDi 100 hk L1 Mester"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/7906b124e5c12220aca4b8ddd65858585d076acc-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/9bb69e209a4c06d0066cf2e5f27d15a3a5fc3559-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/3de857b6e2945d33cc61337bb8ed97a6e8ee778f-850x450.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/0081ac53f830581aebb3710c571ccf02939b4ac2-850x450.jpg?fm=webp&q=80"
+modeldescription: "Peugeot Partner varebil"
 
-alttext: "Peugeot Partner L1 Mester fra siden og front"
+alttext: "Peugeot Partner L1 Mester 3.3 m3 100hk man foran venstre"
 
 pricezero: "4490"
 
@@ -20,15 +20,17 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Diesel"
+fuel: "Fossilt"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
-gear: "Automat"
+gear: "Manuell"
 
-lversion: "L1"
+doors: "4"
+
+seats: "2"
 
 performancehk: "100"
 
@@ -38,11 +40,13 @@ trailerwbreak: "1200"
 
 length: "4403"
 
-yearmodel: "2025"
+yearmodel: "2026"
 
-color: "white"
+color: "Hvit"
 
-interior: "black"
+interior: "Sort / grå"
+
+towbar: true
 
 frontpage: true
 
@@ -60,15 +64,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "frakt 10900 rabatt 23 prosent  på 2x4 hjul https:--drive.google.com-drive-u-2-folders-1HFNyvhlhnrcF7C6KSS1fTJwVDEJvtd3n"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslugad: "https://www.auto-data.net/no/peugeot-partner-iii-k9-facelift-2024-generation-8501"
+consultant: "BOS"
 
 chosepage: "Leasing Firmabil"
 

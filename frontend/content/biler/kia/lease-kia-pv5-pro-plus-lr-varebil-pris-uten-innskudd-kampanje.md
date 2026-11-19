@@ -1,17 +1,17 @@
 ---
-title: "PV5"
+title: "Pro Plus LR"
 brand: "Kia"
 slug: "lease-kia-pv5-pro-plus-lr-varebil-pris-uten-innskudd-kampanje"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/fe72c4aaa577bea153e19d3997ec334e1b360afc-1000x500.jpg?fm=webp&q=80"
-shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/690c5d86a609f6643bbb8a96_KIA%20PV5%20%20side%20og%20frontbilde.jpg"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/fe72c4aaa577bea153e19d3997ec334e1b360afc-1000x500.jpg?fm=webp&q=80"
+shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6acca53d8cefba012e9eddcc_kia-pv5-cargo-long-range-foran-venstre.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/fe72c4aaa577bea153e19d3997ec334e1b360afc-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/2dfb37bab49ae59356572233181628fb0dac2a97-1000x500.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/2b928a9dc721afe1f00e0c932d7f5e299d4b545a-1000x500.jpg?fm=webp&q=80"
-modeldescription: "Pro Plus LR"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/fe72c4aaa577bea153e19d3997ec334e1b360afc-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2dfb37bab49ae59356572233181628fb0dac2a97-1000x500.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/2b928a9dc721afe1f00e0c932d7f5e299d4b545a-1000x500.jpg?fm=webp&q=80"
+modeldescription: "Kia PV5 varebil"
 
-alttext: "Kia PV5 Pro Plus LR fra siden"
+alttext: "Kia PV5 Pro Plus LR foran venstre"
 
 pricezero: "5590"
 
@@ -19,17 +19,17 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Elektrisitet"
+fuel: "Elektrisk"
 
-body: "Varebil"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
 
 numberofgears: "1"
 
-doors: "4"
+doors: "5"
 
 seats: "2"
 
@@ -48,20 +48,6 @@ grossbattery: "71"
 netbattery: "67"
 
 chargingdc: "150"
-
-maxhomechargeac: "11 kW"
-
-chargingspeed: "39 min"
-
-powerusage: "19,1 kWh/100 km"
-
-warranty: "7 år/15000 km"
-
-batterywarranty: "8 år/16000 km"
-
-warrantypaint: "5 år"
-
-warrantyrust: "12 år"
 
 allowedtotalweight: "2650"
 
@@ -87,12 +73,6 @@ height: "1923"
 
 wheelbase: "2995"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
-
 campaign: true
 
 metatitle: "Kia PV5 Pro Plus LR varebil leasing uten innskudd"
@@ -105,17 +85,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Frakt 12500 -- Rabatt utregnet i Quoter 85200"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslug: "https://www.motorbasen.no/sider/bil.asp?Id=43334"
-
-sourceslugad: "https://www.auto-data.net/no/kia-pv5-cargo-l2-h1-71.2-kwh-163hp-long-range-54492"
+consultant: "BOS Lørenskog Arne Hammer"
 
 chosepage: "Leasing Firmabil"
 

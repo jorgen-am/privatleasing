@@ -1,15 +1,15 @@
 ---
-title: "Kangoo"
+title: "Advance 7-gir automat L2"
 brand: "Renault"
 slug: "varebil-renault-kangoo-leasing-uten-innskudd"
 layout: "single"
-mainimages: "https://cdn.sanity.io/images/1lzskaub/production/fbfea00435f7765390b9448859882470ae5f6891-650x350.jpg?fm=webp&q=80"
+mainimages: "https://cdn.sanity.io/images/zm2rz2y0/production/fbfea00435f7765390b9448859882470ae5f6891-650x350.jpg?fm=webp&q=80"
 shopimage: "https://cdn.prod.website-files.com/581884d6ec4143c342e9f6da/6835765c781f2b5e40935bd0_Kangoo%20van%20front%20-%20side.jpg"
 gallery: 
-  - "https://cdn.sanity.io/images/1lzskaub/production/fbfea00435f7765390b9448859882470ae5f6891-650x350.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/550e7e83781ab4e8bbdd315837b2325574f17776-650x350.jpg?fm=webp&q=80"
-  - "https://cdn.sanity.io/images/1lzskaub/production/a2d337eb76774ece50ef541c01c4b7135a409b75-850x450.jpg?fm=webp&q=80"
-modeldescription: "Advance 7-gir automat L2"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/fbfea00435f7765390b9448859882470ae5f6891-650x350.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/550e7e83781ab4e8bbdd315837b2325574f17776-650x350.jpg?fm=webp&q=80"
+  - "https://cdn.sanity.io/images/zm2rz2y0/production/a2d337eb76774ece50ef541c01c4b7135a409b75-850x450.jpg?fm=webp&q=80"
+modeldescription: "Renault Kangoo varebil"
 
 alttext: "Lease Renault Kangoo dCi Advance som firmabil uten innskudd"
 
@@ -19,29 +19,23 @@ interest: "Fast"
 
 quote: "21248"
 
-fuel: "Bensin"
+fuel: "Fossilt"
 
-body: "Minivan"
+body: "Kassebil"
 
-drive: "FWD"
+drive: "Forhjulsdrift"
 
 gear: "Automat"
-
-lversion: "L2"
 
 numberofgears: "7"
 
 doors: "5"
 
-seats: "5"
+seats: "3"
 
-performancehk: "130"
+performancehk: "115"
 
 torque: "240"
-
-cotwoemission: "152"
-
-range: "285"
 
 grossbattery: "45"
 
@@ -69,11 +63,7 @@ height: "1869"
 
 wheelbase: "3100"
 
-yearmodel: "2025"
-
-color: "white"
-
-interior: "black"
+towbar: true
 
 campaign: true
 
@@ -89,15 +79,11 @@ opengraphdescription: "15000 km/år -  fast rente -  vinterhjul -  frakt/klargj�
 
 shortterm: "FALSE"
 
-pricecomment: "Abc"
-
-salesman: "ingen"
+pricecomment: "Gratis farge: Hvit Mot tillegg kr 6000: Sølv  pluss sort. Leveringstid: Ca 2 uker (alle farger)"
 
 availability: "FALSE"
 
-consultant: "none"
-
-sourceslugad: "https://www.auto-data.net/no/renault-grand-kangoo-iii-1.3-tce-130hp-edc-54834"
+consultant: "Paal"
 
 chosepage: "Leasing Firmabil"
 

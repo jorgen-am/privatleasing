@@ -1,4 +1,0 @@
----
-title: "Nyhet"
-layout: "list"
----
